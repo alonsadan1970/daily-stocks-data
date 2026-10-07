@@ -1,22 +1,22 @@
-generated_at,2026-10-07T12:42:13.681579+00:00
+generated_at,2026-10-08T00:13:50.278664+03:00
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ,44.44,35.77,8.669998,24.238182,2026-10-07T12:38:25.021600+00:00,No
-MF,MindForge Inc. - Class A Ordinary Shares,NASDAQ,11.4,14.3,-2.9000006,-20.279724,2026-10-07T12:38:25.021600+00:00,No
-TANH,Tantech Holdings Ltd. - Class A Common Shares,NASDAQ,16.88,14.26,2.62,18.3731,2026-10-07T12:24:38.403800+00:00,No
-ALMR,"Alamar Biosciences, Inc. - Class A common stock",NASDAQ,32.26,38.13,-5.87,-15.3947,2026-10-07T12:38:25.021600+00:00,Yes
-NEOG,Neogen Corporation - Common Stock,NASDAQ,13.8,11.96,1.8400002,15.384617,2026-10-07T12:38:25.021600+00:00,Yes
-CABO,"Cable One, Inc. Common Stock",NYSE,12.97,11.25,1.72,15.2889,2026-10-07T12:38:25.021600+00:00,Yes
-SYRE,"Spyre Therapeutics, Inc. - Common Stock",NASDAQ,80.11,92.72,-12.61,-13.6001,2026-10-07T12:24:38.403800+00:00,Yes
-BLSM,"BlossomHill Therapeutics, Inc. - Common Stock",NASDAQ,17.29,19.94,-2.65,-13.2899,2026-10-07T12:38:25.021600+00:00,No
-ODTX,"Odyssey Therapeutics, Inc. - Common Stock",NASDAQ,18.13,20.84,-2.71,-13.0038,2026-10-07T12:38:25.021600+00:00,No
-KARD,"Kardigan, Inc. - Common Stock",NASDAQ,13.49,15.24,-1.75,-11.4829,2026-10-07T12:38:25.021600+00:00,Yes
-ADPT,Adaptive Biotechnologies Corporation - Common Stock,NASDAQ,26.9,29.84,-2.94,-9.85255,2026-10-07T12:38:25.021600+00:00,Yes
-EUDA,Euda Health Holdings Limited - Ordinary Shares,NASDAQ,19.39,17.6994,1.6905994,9.551733,2026-10-07T12:38:25.021600+00:00,No
-FXHO,UTime Limited - Class A Ordinary Shares,NASDAQ,10.88,9.9401,0.9399004,9.455644,2026-10-07T12:38:25.021600+00:00,No
-LWAY,"Lifeway Foods, Inc. - Common Stock",NASDAQ,22.39,20.46,1.9300003,9.433042,2026-10-07T12:38:25.021600+00:00,Yes
-MXC,Mexco Energy Corporation Common Stock,NYSE American,10.61,9.73,0.88,9.0442,2026-10-07T12:38:25.021600+00:00,No
-CSTL,"Castle Biosciences, Inc. - Common stock",NASDAQ,33.36,36.65,-3.29,-8.97681,2026-10-07T12:38:25.021600+00:00,Yes
-SAIH,SAIHEAT Limited - Class A Ordinary Shares,NASDAQ,24.35,26.74,-2.3899994,-8.937919,2026-10-07T12:38:25.021600+00:00,Yes
-ALIS,Calisa Acquisition Corp - Ordinary shares,NASDAQ,11.25,10.33,0.9200001,8.906099,2026-10-07T12:38:25.021600+00:00,No
-GH,"Guardant Health, Inc. - Common Stock",NASDAQ,170.69,187.22,-16.53,-8.82918,2026-10-07T12:38:25.021600+00:00,Yes
-SUJA,"Suja Life, Inc. - Class A Common Stock",NASDAQ,10.25,9.43,0.82,8.69565,2026-10-07T12:24:38.403800+00:00,No
+WOLF,"Wolfspeed, Inc. Common Stock New",NYSE,39.25,31.37,7.879999,25.11954,2026-10-07T21:13:41.654505+00:00,Yes
+CYD,China Yuchai International Limited Common Stock,NYSE,28.18,32.19,-4.01,-12.4573,2026-10-07T21:13:41.654505+00:00,No
+TJGC,TJGC Group Limited - Class A Ordinary Shares,NASDAQ,31.0,27.82,3.1800003,11.430626,2026-10-07T21:13:41.654505+00:00,No
+VALU,"Value Line, Inc. - Common Stock",NASDAQ,44.44,40.75,3.6899986,9.055211,2026-10-07T21:13:41.654505+00:00,No
+INTG,The Intergroup Corporation - Common Stock,NASDAQ,31.04,28.62,2.42,8.455626,2026-10-07T21:13:41.654505+00:00,No
+FTH,"Faeth Therapeutics, Inc.  - Common Stock",NASDAQ,24.92,26.89,-1.9699993,-7.326141,2026-10-07T21:13:41.654505+00:00,No
+LVLU,"Lulu's Fashion Lounge Holdings, Inc. - Common Stock",NASDAQ,12.275,13.24,-0.96500015,-7.288521,2026-10-07T21:13:41.654505+00:00,No
+ELVR,Elevra Lithium Limited - American Depository Shares,NASDAQ,34.71,37.42,-2.709999,-7.242114,2026-10-07T21:13:41.654505+00:00,No
+AAPG,Ascentage Pharma Group International - American Depository Shares,NASDAQ,14.94,16.09,-1.1500006,-7.1473002,2026-10-07T21:13:41.654505+00:00,No
+NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,NYSE,14.5428,13.67,0.8727999,6.384783,2026-10-07T21:13:41.654505+00:00,Yes
+FTK,"Flotek Industries, Inc. Common Stock",NYSE,28.06,29.97,-1.91,-6.37304,2026-10-07T21:13:41.654505+00:00,Yes
+PHOE,Phoenix Asia Holdings Limited - Ordinary Shares,NASDAQ,18.05,19.26,-1.210001,-6.2824554,2026-10-07T21:13:41.654505+00:00,No
+AIOS,AIOS Tech Inc. - Class A Common Shares,NASDAQ,11.15,11.88,-0.7300005,-6.144785,2026-10-07T21:13:41.654505+00:00,No
+BKHA,Black Hawk Acquisition Corporation - Class A Ordinary Shares,NASDAQ,13.0,12.3,0.6999998,5.6910553,2026-10-07T21:13:41.654505+00:00,No
+DIT,AMCON Distributing Company Common Stock,NYSE American,65.14,68.99,-3.85,-5.58052,2026-10-07T21:13:41.654505+00:00,No
+MGRT,Mega Fortune Company Limited - Ordinary Shares,NASDAQ,102.0,108.0,-6.0,-5.555556,2026-10-07T21:13:41.654505+00:00,No
+VTVT,vTv Therapeutics Inc. - Class A Common Stock,NASDAQ,32.7149,31.01,1.7049007,5.4979067,2026-10-07T21:13:41.654505+00:00,No
+BELFA,Bel Fuse Inc. - Class A Common Stock,NASDAQ,198.28,209.58,-11.300003,-5.3917375,2026-10-07T21:13:41.654505+00:00,Yes
+BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,NYSE,21.56,22.77,-1.21,-5.31401,2026-10-07T21:13:41.654505+00:00,No
+DGICB,"Donegal Group, Inc. - Class B Common Stock",NASDAQ,17.6,16.7713,0.828701,4.9411855,2026-10-07T21:13:41.654505+00:00,No
