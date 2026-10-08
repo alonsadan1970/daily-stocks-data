@@ -1,22 +1,22 @@
-generated_at,2026-10-08T11:00:13.057259+03:00
+generated_at,2026-10-08T11:13:50.802305+03:00
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-XRPN,Armada Acquisition Corp. II - Class A Ordinary Shares,NASDAQ,25.01,19.2,5.81,30.2604,2026-10-08T08:00:01.463380+00:00,No
-BSP,Bending Spoons S.p.A. - Ordinary Shares,NASDAQ,41.07,33.07,8.0,24.1911,2026-10-08T08:00:01.463380+00:00,No
-GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ,54.99,44.44,10.55,23.7399,2026-10-08T08:00:01.463380+00:00,No
-CD,Chaince Digital Holdings Inc. - American Ordinary Shares,NASDAQ,10.15,8.32,1.83,21.9952,2026-10-08T08:00:01.463380+00:00,No
-WOLF,"Wolfspeed, Inc. Common Stock New",NYSE,37.0706,31.37,5.670599,18.059233,2026-10-08T08:00:01.463380+00:00,Yes
-AIFU,AIFU Inc. - Class A Ordinary Share,NASDAQ,12.85,11.18,1.6700001,14.937389,2026-10-08T08:00:01.463380+00:00,No
-HESM,Hess Midstream LP Class A Representing Limited Partner Interests,NYSE,33.03,38.69,-5.66,-14.6291,2026-10-08T08:00:01.463380+00:00,Yes
-ALMR,"Alamar Biosciences, Inc. - Class A common stock",NASDAQ,27.77,32.26,-4.49,-13.9182,2026-10-08T08:00:01.463380+00:00,Yes
-CYD,China Yuchai International Limited Common Stock,NYSE,28.18,32.19,-4.01,-12.4573,2026-10-08T08:00:01.463380+00:00,No
-AVBP,"ArriVent BioPharma, Inc. - Common Stock",NASDAQ,16.89,15.09,1.8,11.9284,2026-10-08T08:00:01.463380+00:00,Yes
-TJGC,TJGC Group Limited - Class A Ordinary Shares,NASDAQ,31.0,27.82,3.18,11.4306,2026-10-08T08:00:01.463380+00:00,No
-QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ,13.0,11.79,1.21,10.262935,2026-10-08T08:00:01.463380+00:00,No
-PRE,Prenetics Global Limited - Class A Ordinary Share,NASDAQ,22.47,20.4,2.07,10.1471,2026-10-08T08:00:01.463380+00:00,Yes
-IESC,"IES Holdings, Inc. - Common Stock",NASDAQ,308.83,341.845,-33.015,-9.65789,2026-10-08T08:00:01.463380+00:00,Yes
-FSM,Fortuna Mining Corp. Common Shares,NYSE,10.12,11.18,-1.06,-9.48122,2026-10-08T08:00:01.463380+00:00,Yes
-BRUN,Boost Run Inc. - Class A Common Stock,NASDAQ,13.75,15.17,-1.42,-9.36058,2026-10-08T08:00:01.463380+00:00,Yes
-CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,NASDAQ,26.07,28.72,-2.65,-9.22702,2026-10-08T08:00:01.463380+00:00,Yes
-FEIM,"Frequency Electronics, Inc. - Common Stock",NASDAQ,79.15,87.13,-7.98,-9.15872,2026-10-08T08:00:01.463380+00:00,Yes
-VNCE,Vince Holding Corp. - Common Stock,NASDAQ,13.36,12.24,1.12,9.15033,2026-10-08T08:00:01.463380+00:00,No
-VALU,"Value Line, Inc. - Common Stock",NASDAQ,44.44,40.75,3.69,9.05521,2026-10-08T08:00:01.463380+00:00,No
+GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ,54.99,44.44,10.55,23.7399,2026-10-08T08:13:41.658429+00:00,No
+CD,Chaince Digital Holdings Inc. - American Ordinary Shares,NASDAQ,10.15,8.32,1.83,21.9952,2026-10-08T08:13:41.658429+00:00,No
+WOLF,"Wolfspeed, Inc. Common Stock New",NYSE,36.39,31.37,4.99,15.891719,2026-10-08T08:13:41.658429+00:00,Yes
+AIFU,AIFU Inc. - Class A Ordinary Share,NASDAQ,12.85,11.18,1.6700001,14.937389,2026-10-08T08:13:41.658429+00:00,No
+HESM,Hess Midstream LP Class A Representing Limited Partner Interests,NYSE,33.03,38.69,-5.66,-14.6291,2026-10-08T08:13:41.658429+00:00,Yes
+ALMR,"Alamar Biosciences, Inc. - Class A common stock",NASDAQ,27.77,32.26,-4.49,-13.9182,2026-10-08T08:13:41.658429+00:00,Yes
+CYD,China Yuchai International Limited Common Stock,NYSE,28.18,32.19,-4.01,-12.4573,2026-10-08T08:13:41.658429+00:00,No
+AVBP,"ArriVent BioPharma, Inc. - Common Stock",NASDAQ,16.89,15.09,1.8,11.9284,2026-10-08T08:13:41.658429+00:00,Yes
+ALIS,Calisa Acquisition Corp - Ordinary shares,NASDAQ,12.3,11.03,1.2700005,11.514057,2026-10-08T08:13:41.658429+00:00,No
+TJGC,TJGC Group Limited - Class A Ordinary Shares,NASDAQ,31.0,27.82,3.18,11.4306,2026-10-08T08:13:41.658429+00:00,No
+TRAX,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",NASDAQ,34.0,30.59,3.4099998,11.147433,2026-10-08T08:13:41.658429+00:00,Yes
+QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ,13.0,11.79,1.21,10.262935,2026-10-08T08:13:41.658429+00:00,No
+PRE,Prenetics Global Limited - Class A Ordinary Share,NASDAQ,22.47,20.4,2.07,10.1471,2026-10-08T08:13:41.658429+00:00,Yes
+IESC,"IES Holdings, Inc. - Common Stock",NASDAQ,308.83,341.845,-33.015,-9.65789,2026-10-08T08:13:41.658429+00:00,Yes
+FSM,Fortuna Mining Corp. Common Shares,NYSE,10.12,11.18,-1.06,-9.48122,2026-10-08T08:13:41.658429+00:00,Yes
+CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,NASDAQ,26.07,28.72,-2.65,-9.22702,2026-10-08T08:13:41.658429+00:00,Yes
+FEIM,"Frequency Electronics, Inc. - Common Stock",NASDAQ,79.15,87.13,-7.98,-9.15872,2026-10-08T08:13:41.658429+00:00,Yes
+VNCE,Vince Holding Corp. - Common Stock,NASDAQ,13.36,12.24,1.12,9.15033,2026-10-08T08:13:41.658429+00:00,No
+VALU,"Value Line, Inc. - Common Stock",NASDAQ,44.44,40.75,3.69,9.05521,2026-10-08T08:13:41.658429+00:00,No
+AZTA,"Azenta, Inc. - Common Stock",NASDAQ,35.89,39.35,-3.46,-8.79288,2026-10-08T08:13:41.658429+00:00,Yes
