@@ -1,22 +1,22 @@
-generated_at,2026-10-08T00:13:50.278664+03:00
+generated_at,2026-10-08T10:00:27.194670+03:00
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-WOLF,"Wolfspeed, Inc. Common Stock New",NYSE,39.25,31.37,7.879999,25.11954,2026-10-07T21:13:41.654505+00:00,Yes
-CYD,China Yuchai International Limited Common Stock,NYSE,28.18,32.19,-4.01,-12.4573,2026-10-07T21:13:41.654505+00:00,No
-TJGC,TJGC Group Limited - Class A Ordinary Shares,NASDAQ,31.0,27.82,3.1800003,11.430626,2026-10-07T21:13:41.654505+00:00,No
-VALU,"Value Line, Inc. - Common Stock",NASDAQ,44.44,40.75,3.6899986,9.055211,2026-10-07T21:13:41.654505+00:00,No
-INTG,The Intergroup Corporation - Common Stock,NASDAQ,31.04,28.62,2.42,8.455626,2026-10-07T21:13:41.654505+00:00,No
-FTH,"Faeth Therapeutics, Inc.  - Common Stock",NASDAQ,24.92,26.89,-1.9699993,-7.326141,2026-10-07T21:13:41.654505+00:00,No
-LVLU,"Lulu's Fashion Lounge Holdings, Inc. - Common Stock",NASDAQ,12.275,13.24,-0.96500015,-7.288521,2026-10-07T21:13:41.654505+00:00,No
-ELVR,Elevra Lithium Limited - American Depository Shares,NASDAQ,34.71,37.42,-2.709999,-7.242114,2026-10-07T21:13:41.654505+00:00,No
-AAPG,Ascentage Pharma Group International - American Depository Shares,NASDAQ,14.94,16.09,-1.1500006,-7.1473002,2026-10-07T21:13:41.654505+00:00,No
-NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,NYSE,14.5428,13.67,0.8727999,6.384783,2026-10-07T21:13:41.654505+00:00,Yes
-FTK,"Flotek Industries, Inc. Common Stock",NYSE,28.06,29.97,-1.91,-6.37304,2026-10-07T21:13:41.654505+00:00,Yes
-PHOE,Phoenix Asia Holdings Limited - Ordinary Shares,NASDAQ,18.05,19.26,-1.210001,-6.2824554,2026-10-07T21:13:41.654505+00:00,No
-AIOS,AIOS Tech Inc. - Class A Common Shares,NASDAQ,11.15,11.88,-0.7300005,-6.144785,2026-10-07T21:13:41.654505+00:00,No
-BKHA,Black Hawk Acquisition Corporation - Class A Ordinary Shares,NASDAQ,13.0,12.3,0.6999998,5.6910553,2026-10-07T21:13:41.654505+00:00,No
-DIT,AMCON Distributing Company Common Stock,NYSE American,65.14,68.99,-3.85,-5.58052,2026-10-07T21:13:41.654505+00:00,No
-MGRT,Mega Fortune Company Limited - Ordinary Shares,NASDAQ,102.0,108.0,-6.0,-5.555556,2026-10-07T21:13:41.654505+00:00,No
-VTVT,vTv Therapeutics Inc. - Class A Common Stock,NASDAQ,32.7149,31.01,1.7049007,5.4979067,2026-10-07T21:13:41.654505+00:00,No
-BELFA,Bel Fuse Inc. - Class A Common Stock,NASDAQ,198.28,209.58,-11.300003,-5.3917375,2026-10-07T21:13:41.654505+00:00,Yes
-BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,NYSE,21.56,22.77,-1.21,-5.31401,2026-10-07T21:13:41.654505+00:00,No
-DGICB,"Donegal Group, Inc. - Class B Common Stock",NASDAQ,17.6,16.7713,0.828701,4.9411855,2026-10-07T21:13:41.654505+00:00,No
+XRPN,Armada Acquisition Corp. II - Class A Ordinary Shares,NASDAQ,25.01,19.2,5.81,30.2604,2026-10-08T07:00:10.172071+00:00,No
+BSP,Bending Spoons S.p.A. - Ordinary Shares,NASDAQ,41.07,33.07,8.0,24.1911,2026-10-08T07:00:10.172071+00:00,No
+GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ,54.99,44.44,10.55,23.7399,2026-10-08T07:00:10.172071+00:00,No
+CD,Chaince Digital Holdings Inc. - American Ordinary Shares,NASDAQ,10.15,8.32,1.83,21.9952,2026-10-08T07:00:10.172071+00:00,No
+AIFU,AIFU Inc. - Class A Ordinary Share,NASDAQ,12.85,11.18,1.6700001,14.937389,2026-10-08T07:00:10.172071+00:00,No
+HESM,Hess Midstream LP Class A Representing Limited Partner Interests,NYSE,33.03,38.69,-5.66,-14.6291,2026-10-08T07:00:10.172071+00:00,Yes
+ALMR,"Alamar Biosciences, Inc. - Class A common stock",NASDAQ,27.77,32.26,-4.49,-13.9182,2026-10-08T07:00:10.172071+00:00,Yes
+PENG,"Penguin Solutions, Inc. - Common Stock",NASDAQ,72.61,64.21,8.4,13.0821,2026-10-08T07:00:10.172071+00:00,Yes
+CYD,China Yuchai International Limited Common Stock,NYSE,28.18,32.19,-4.01,-12.4573,2026-10-08T07:00:10.172071+00:00,No
+AVBP,"ArriVent BioPharma, Inc. - Common Stock",NASDAQ,16.89,15.09,1.8,11.9284,2026-10-08T07:00:10.172071+00:00,Yes
+TJGC,TJGC Group Limited - Class A Ordinary Shares,NASDAQ,31.0,27.82,3.18,11.4306,2026-10-08T07:00:10.172071+00:00,No
+FCEL,"FuelCell Energy, Inc. - Common Stock",NASDAQ,18.365,20.65,-2.285,-11.0654,2026-10-08T07:00:10.172071+00:00,Yes
+QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ,13.0,11.79,1.21,10.262935,2026-10-08T07:00:10.172071+00:00,No
+SECZ,Securitize Corp. Common Stock,NYSE,11.4,12.7,-1.3,-10.2362,2026-10-08T07:00:10.172071+00:00,No
+PRE,Prenetics Global Limited - Class A Ordinary Share,NASDAQ,22.47,20.4,2.07,10.1471,2026-10-08T07:00:10.172071+00:00,Yes
+IESC,"IES Holdings, Inc. - Common Stock",NASDAQ,308.83,341.845,-33.015,-9.65789,2026-10-08T07:00:10.172071+00:00,Yes
+FSM,Fortuna Mining Corp. Common Shares,NYSE,10.12,11.18,-1.06,-9.48122,2026-10-08T07:00:10.172071+00:00,Yes
+BRUN,Boost Run Inc. - Class A Common Stock,NASDAQ,13.75,15.17,-1.42,-9.36058,2026-10-08T07:00:10.172071+00:00,Yes
+CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,NASDAQ,26.07,28.72,-2.65,-9.22702,2026-10-08T07:00:10.172071+00:00,Yes
+FEIM,"Frequency Electronics, Inc. - Common Stock",NASDAQ,79.15,87.13,-7.98,-9.15872,2026-10-08T07:00:10.172071+00:00,Yes
