@@ -1,22 +1,22 @@
-generated_at,2026-10-08T14:43:28.318764+03:00
+generated_at,2026-10-08T15:00:12.991879+03:00
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ,54.99,44.44,10.55,23.7399,2026-10-08T11:43:19.015897+00:00,No
-HAE,Haemonetics Corporation Common Stock,NYSE,121.12,101.71,19.330002,18.99008,2026-10-08T11:43:19.015897+00:00,Yes
-AIFU,AIFU Inc. - Class A Ordinary Share,NASDAQ,12.85,11.18,1.6700001,14.937389,2026-10-08T11:43:19.015897+00:00,No
-WOLF,"Wolfspeed, Inc. Common Stock New",NYSE,35.98,31.37,4.58,14.585987,2026-10-08T11:43:19.015897+00:00,Yes
-ALMR,"Alamar Biosciences, Inc. - Class A common stock",NASDAQ,27.77,32.26,-4.49,-13.9182,2026-10-08T11:43:19.015897+00:00,Yes
-ALIS,Calisa Acquisition Corp - Ordinary shares,NASDAQ,12.5,11.03,1.4700003,13.327292,2026-10-08T11:43:19.015897+00:00,No
-CYD,China Yuchai International Limited Common Stock,NYSE,28.18,32.19,-4.01,-12.4573,2026-10-08T11:43:19.015897+00:00,No
-TJGC,TJGC Group Limited - Class A Ordinary Shares,NASDAQ,31.0,27.82,3.18,11.4306,2026-10-08T11:43:19.015897+00:00,No
-QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ,13.0,11.79,1.21,10.262935,2026-10-08T11:43:19.015897+00:00,No
-PRE,Prenetics Global Limited - Class A Ordinary Share,NASDAQ,22.47,20.4,2.07,10.1471,2026-10-08T11:43:19.015897+00:00,Yes
-NAKA,Nakamoto Inc. - Common Stock,NASDAQ,10.23,9.34,0.8899994,9.528901,2026-10-08T11:43:19.015897+00:00,Yes
-CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,NASDAQ,26.07,28.72,-2.65,-9.22702,2026-10-08T11:43:19.015897+00:00,Yes
-FEIM,"Frequency Electronics, Inc. - Common Stock",NASDAQ,79.15,87.13,-7.98,-9.15872,2026-10-08T11:43:19.015897+00:00,Yes
-HNRG,Hallador Energy Company - Common Stock,NASDAQ,14.9001,13.65,1.2501001,9.158243,2026-10-08T11:43:19.015897+00:00,Yes
-VALU,"Value Line, Inc. - Common Stock",NASDAQ,44.44,40.75,3.69,9.05521,2026-10-08T11:43:19.015897+00:00,No
-ANGO,"AngioDynamics, Inc. - Common Stock",NASDAQ,12.9888,14.19,-1.2011995,-8.465113,2026-10-08T11:43:19.015897+00:00,Yes
-INTG,The Intergroup Corporation - Common Stock,NASDAQ,31.04,28.62,2.42,8.45563,2026-10-08T11:43:19.015897+00:00,No
-TRAX,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",NASDAQ,32.99,30.59,2.4000015,7.845706,2026-10-08T11:43:19.015897+00:00,Yes
-DRUG,Bright Minds Biosciences Inc. - common stock,NASDAQ,52.0,48.25,3.75,7.77202,2026-10-08T11:43:19.015897+00:00,Yes
-PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,51.63,47.93,3.7,7.71959,2026-10-08T11:43:19.015897+00:00,Yes
+GIBO,GIBO Holdings Limited - Class A Ordinary Shares,NASDAQ,54.99,44.44,10.55,23.7399,2026-10-08T12:00:00.658957+00:00,No
+HAE,Haemonetics Corporation Common Stock,NYSE,123.2495,101.71,21.459496,21.082125,2026-10-08T12:00:00.658957+00:00,Yes
+AIFU,AIFU Inc. - Class A Ordinary Share,NASDAQ,12.85,11.18,1.6700001,14.937389,2026-10-08T12:00:00.658957+00:00,No
+ALMR,"Alamar Biosciences, Inc. - Class A common stock",NASDAQ,27.77,32.26,-4.49,-13.9182,2026-10-08T12:00:00.658957+00:00,Yes
+ALIS,Calisa Acquisition Corp - Ordinary shares,NASDAQ,12.5,11.03,1.4700003,13.327292,2026-10-08T12:00:00.658957+00:00,No
+CYD,China Yuchai International Limited Common Stock,NYSE,28.18,32.19,-4.01,-12.4573,2026-10-08T12:00:00.658957+00:00,No
+WOLF,"Wolfspeed, Inc. Common Stock New",NYSE,35.26,31.37,3.8599987,12.29299,2026-10-08T12:00:00.658957+00:00,Yes
+TJGC,TJGC Group Limited - Class A Ordinary Shares,NASDAQ,31.0,27.82,3.18,11.4306,2026-10-08T12:00:00.658957+00:00,No
+QETA,Quetta Acquisition Corporation - Common Stock,NASDAQ,13.0,11.79,1.21,10.262935,2026-10-08T12:00:00.658957+00:00,No
+PRE,Prenetics Global Limited - Class A Ordinary Share,NASDAQ,22.47,20.4,2.07,10.1471,2026-10-08T12:00:00.658957+00:00,Yes
+NAKA,Nakamoto Inc. - Common Stock,NASDAQ,10.23,9.34,0.8899994,9.528901,2026-10-08T12:00:00.658957+00:00,Yes
+CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,NASDAQ,26.07,28.72,-2.65,-9.22702,2026-10-08T12:00:00.658957+00:00,Yes
+FEIM,"Frequency Electronics, Inc. - Common Stock",NASDAQ,79.15,87.13,-7.98,-9.15872,2026-10-08T12:00:00.658957+00:00,Yes
+HNRG,Hallador Energy Company - Common Stock,NASDAQ,14.9001,13.65,1.2501001,9.158243,2026-10-08T12:00:00.658957+00:00,Yes
+VALU,"Value Line, Inc. - Common Stock",NASDAQ,44.44,40.75,3.69,9.05521,2026-10-08T12:00:00.658957+00:00,No
+INTG,The Intergroup Corporation - Common Stock,NASDAQ,31.04,28.62,2.42,8.45563,2026-10-08T12:00:00.658957+00:00,No
+TRAX,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",NASDAQ,32.99,30.59,2.4000015,7.845706,2026-10-08T12:00:00.658957+00:00,Yes
+DRUG,Bright Minds Biosciences Inc. - common stock,NASDAQ,52.0,48.25,3.75,7.77202,2026-10-08T12:00:00.658957+00:00,Yes
+PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,51.63,47.93,3.7,7.71959,2026-10-08T12:00:00.658957+00:00,Yes
+ESOA,Energy Services of America Corporation - Common Stock,NASDAQ,10.44,11.31,-0.870001,-7.69231,2026-10-08T12:00:00.658957+00:00,Yes
