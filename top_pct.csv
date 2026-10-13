@@ -1,22 +1,22 @@
-generated_at,2026-10-13T11:16:44.913082+03:00,vol_5h_date,none,vol_status,STALE
+generated_at,2026-10-13T11:30:14.122766+03:00,vol_5h_date,none,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-WFF,WF Holding Limited - Ordinary Shares,NASDAQ,20.44,17.28,3.1599998,18.287037,2026-10-13T08:16:35.523015+00:00,No
-SRZN,"Surrozen, Inc. - Common Stock",NASDAQ,24.76,29.69,-4.93,-16.6049,2026-10-13T08:16:35.523015+00:00,No
-EDRY,EuroDry Ltd. - Common Shares,NASDAQ,50.8,58.72,-7.92,-13.4877,2026-10-13T08:16:35.523015+00:00,No
-XRPN,Armada Acquisition Corp. II - Class A Ordinary Shares,NASDAQ,18.83,16.91,1.9200001,11.354228,2026-10-13T08:16:35.523015+00:00,No
-CUE,"Cue Biopharma, Inc. - Common Stock",NASDAQ,24.61,27.66,-3.05,-11.0268,2026-10-13T08:16:35.523015+00:00,No
-SVRN,"SVRN, Inc. - Common Stock",NASDAQ,48.49,44.0,4.49,10.2045,2026-10-13T08:16:35.523015+00:00,No
-DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",NYSE,11.79,13.0,-1.21,-9.30769,2026-10-13T08:16:35.523015+00:00,Yes
-NESR,National Energy Services Reunited Corp - Ordinary Shares,NASDAQ,20.9,22.78,-1.88,-8.25286,2026-10-13T08:16:35.523015+00:00,Yes
-AGPU,Axe Compute Inc. - Common Stock,NASDAQ,10.75,11.68,-0.93,-7.96233,2026-10-13T08:16:35.523015+00:00,No
-VERA,"Vera Therapeutics, Inc. - Class A Common Stock",NASDAQ,27.72,29.88,-2.16,-7.22892,2026-10-13T08:16:35.523015+00:00,Yes
-MRAM,"Everspin Technologies, Inc. - Common Stock",NASDAQ,15.28,16.45,-1.17,-7.11247,2026-10-13T08:16:35.523015+00:00,Yes
-BLCO,Bausch + Lomb Corporation Common Shares,NYSE,16.07,17.3,-1.23,-7.10982,2026-10-13T08:16:35.523015+00:00,Yes
-SITM,SiTime Corporation - Common Stock,NASDAQ,570.07,612.37,-42.3,-6.90759,2026-10-13T08:16:35.523015+00:00,Yes
-BOT,"RoboStrategy, Inc. - Common Stock",NASDAQ,25.88,27.69,-1.81,-6.53666,2026-10-13T08:16:35.523015+00:00,No
-HELP,Cybin Inc. - Common Stock,NASDAQ,11.03,11.8,-0.77,-6.52543,2026-10-13T08:16:35.523015+00:00,Yes
-MANE,"Veradermics, Incorporated Common Stock",NYSE,122.4,130.9,-8.49999,-6.4935,2026-10-13T08:16:35.523015+00:00,Yes
-PXED,"Phoenix Education Partners, Inc. Common Stock",NYSE,24.35,26.01,-1.66,-6.38216,2026-10-13T08:16:35.523015+00:00,Yes
-MANH,"Manhattan Associates, Inc. - Common Stock",NASDAQ,217.89,204.89,13.0,6.34487,2026-10-13T08:16:35.523015+00:00,Yes
-INIO,INNIO N.V. - Ordinary Shares,NASDAQ,18.61,19.79,-1.18,-5.96261,2026-10-13T08:16:35.523015+00:00,Yes
-AADX,"Applied Aerospace & Defense, Inc. Common Stock",NYSE,10.77,11.45,-0.679999,-5.93886,2026-10-13T08:16:35.523015+00:00,Yes
+WFF,WF Holding Limited - Ordinary Shares,NASDAQ,20.7,17.28,3.42,19.791666,2026-10-13T08:30:00.691701+00:00,No
+SRZN,"Surrozen, Inc. - Common Stock",NASDAQ,24.76,29.69,-4.93,-16.6049,2026-10-13T08:30:00.691701+00:00,No
+EDRY,EuroDry Ltd. - Common Shares,NASDAQ,50.8,58.72,-7.92,-13.4877,2026-10-13T08:30:00.691701+00:00,No
+CUE,"Cue Biopharma, Inc. - Common Stock",NASDAQ,24.61,27.66,-3.05,-11.0268,2026-10-13T08:30:00.691701+00:00,No
+SVRN,"SVRN, Inc. - Common Stock",NASDAQ,48.49,44.0,4.49,10.2045,2026-10-13T08:30:00.691701+00:00,No
+NESR,National Energy Services Reunited Corp - Ordinary Shares,NASDAQ,20.9,22.78,-1.88,-8.25286,2026-10-13T08:30:00.691701+00:00,Yes
+AGPU,Axe Compute Inc. - Common Stock,NASDAQ,10.75,11.68,-0.93,-7.96233,2026-10-13T08:30:00.691701+00:00,No
+VERA,"Vera Therapeutics, Inc. - Class A Common Stock",NASDAQ,27.72,29.88,-2.16,-7.22892,2026-10-13T08:30:00.691701+00:00,Yes
+MRAM,"Everspin Technologies, Inc. - Common Stock",NASDAQ,15.28,16.45,-1.17,-7.11247,2026-10-13T08:30:00.691701+00:00,Yes
+BLCO,Bausch + Lomb Corporation Common Shares,NYSE,16.07,17.3,-1.23,-7.10982,2026-10-13T08:30:00.691701+00:00,Yes
+SITM,SiTime Corporation - Common Stock,NASDAQ,570.07,612.37,-42.3,-6.90759,2026-10-13T08:30:00.691701+00:00,Yes
+BOT,"RoboStrategy, Inc. - Common Stock",NASDAQ,25.88,27.69,-1.81,-6.53666,2026-10-13T08:30:00.691701+00:00,No
+HELP,Cybin Inc. - Common Stock,NASDAQ,11.03,11.8,-0.77,-6.52543,2026-10-13T08:30:00.691701+00:00,Yes
+MANE,"Veradermics, Incorporated Common Stock",NYSE,122.4,130.9,-8.49999,-6.4935,2026-10-13T08:30:00.691701+00:00,Yes
+PXED,"Phoenix Education Partners, Inc. Common Stock",NYSE,24.35,26.01,-1.66,-6.38216,2026-10-13T08:30:00.691701+00:00,Yes
+MANH,"Manhattan Associates, Inc. - Common Stock",NASDAQ,217.89,204.89,13.0,6.34487,2026-10-13T08:30:00.691701+00:00,Yes
+INIO,INNIO N.V. - Ordinary Shares,NASDAQ,18.61,19.79,-1.18,-5.96261,2026-10-13T08:30:00.691701+00:00,Yes
+VECO,Veeco Instruments Inc. - Common Stock,NASDAQ,49.24,52.28,-3.04,-5.81484,2026-10-13T08:30:00.691701+00:00,Yes
+SAIL,"SailPoint, Inc. - Common Stock",NASDAQ,19.57,20.77,-1.2,-5.77757,2026-10-13T08:30:00.691701+00:00,Yes
+BETA,"Beta Technologies, Inc. Class A Common Stock",NYSE,19.82,20.98,-1.16,-5.52907,2026-10-13T08:30:00.691701+00:00,Yes
