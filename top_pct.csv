@@ -1,22 +1,22 @@
-generated_at,2026-10-13T14:16:45.664188+03:00,vol_5h_date,none,vol_status,STALE
+generated_at,2026-10-13T14:46:44.771407+03:00,vol_5h_date,2026-10-13,vol_status,OK
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-EDRY,EuroDry Ltd. - Common Shares,NASDAQ,50.8,58.72,-7.92,-13.4877,2026-10-13T11:16:35.259691+00:00,No
-CUE,"Cue Biopharma, Inc. - Common Stock",NASDAQ,24.61,27.66,-3.05,-11.0268,2026-10-13T11:16:35.259691+00:00,No
-S,"SentinelOne, Inc. Class A Common Stock",NYSE,23.55,25.66,-2.1050014,-8.205034,2026-10-13T11:16:35.259691+00:00,Yes
-VERA,"Vera Therapeutics, Inc. - Class A Common Stock",NASDAQ,27.72,29.88,-2.16,-7.22892,2026-10-13T11:16:35.259691+00:00,Yes
-BLCO,Bausch + Lomb Corporation Common Shares,NYSE,16.07,17.3,-1.23,-7.10982,2026-10-13T11:16:35.259691+00:00,Yes
-MANE,"Veradermics, Incorporated Common Stock",NYSE,122.4,130.9,-8.49999,-6.4935,2026-10-13T11:16:35.259691+00:00,Yes
-PXED,"Phoenix Education Partners, Inc. Common Stock",NYSE,24.35,26.01,-1.66,-6.38216,2026-10-13T11:16:35.259691+00:00,Yes
-MANH,"Manhattan Associates, Inc. - Common Stock",NASDAQ,217.89,204.89,13.0,6.34487,2026-10-13T11:16:35.259691+00:00,Yes
-WDC,Western Digital Corporation - Common Stock,NASDAQ,364.42,386.94,-22.519989,-5.820021,2026-10-13T11:16:35.259691+00:00,Yes
-STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,710.5,753.25,-42.75,-5.6754065,2026-10-13T11:16:35.259691+00:00,Yes
-ATEC,"Alphatec Holdings, Inc. - Common Stock",NASDAQ,11.25,10.67,0.58,5.4358,2026-10-13T11:16:35.259691+00:00,Yes
-CTRN,"Citi Trends, Inc. - Common Stock",NASDAQ,48.85,51.55,-2.7,-5.23763,2026-10-13T11:16:35.259691+00:00,Yes
-HRMY,"Harmony Biosciences Holdings, Inc. - Common Stock",NASDAQ,38.23,40.28,-2.05,-5.08937,2026-10-13T11:16:35.259691+00:00,Yes
-HQ,Horizon Quantum Holdings Ltd. - Class A Ordinary Shares,NASDAQ,15.5,16.3,-0.799999,-4.90797,2026-10-13T11:16:35.259691+00:00,No
-CENX,Century Aluminum Company - Common Stock,NASDAQ,34.96,36.76,-1.8,-4.89662,2026-10-13T11:16:35.259691+00:00,Yes
-MLYS,"Mineralys Therapeutics, Inc. - Common Stock",NASDAQ,22.23,23.37,-1.14,-4.87805,2026-10-13T11:16:35.259691+00:00,Yes
-PPHC,"Public Policy Holding Company, Inc. - Common Stock",NASDAQ,10.59,11.13,-0.54,-4.85175,2026-10-13T11:16:35.259691+00:00,No
-SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1416.0435,1487.33,-71.2865,-4.7929177,2026-10-13T11:16:35.259691+00:00,Yes
-INBX,"Inhibrx Biosciences, Inc. - Common Stock",NASDAQ,90.53,95.01,-4.48,-4.7153,2026-10-13T11:16:35.259691+00:00,Yes
-NN,NextNav Inc. - Common stock,NASDAQ,11.77,12.35,-0.58,-4.69636,2026-10-13T11:16:35.259691+00:00,Yes
+ICCC,ImmuCell Corporation - Common Stock,NASDAQ,11.0239,9.6,1.4238997,14.832288,2026-10-13T11:46:35.272674+00:00,No
+SNDX,"Syndax Pharmaceuticals, Inc. - Common Stock",NASDAQ,15.0,16.55,-1.5499992,-9.365555,2026-10-13T11:46:35.272674+00:00,Yes
+GOSS,"Gossamer Bio, Inc. - Common Stock",NASDAQ,10.1,9.28,0.82000065,8.836214,2026-10-13T11:46:35.272674+00:00,No
+EFXT,Enerflex Ltd Common Shares,NYSE,26.0,24.08,1.9200001,7.973422,2026-10-13T11:46:35.272674+00:00,Yes
+FUN,Six Flags Entertainment Corporation Common Stock New,NYSE,11.0237,11.92,-0.8913002,-7.4804883,2026-10-13T11:46:35.272674+00:00,Yes
+S,"SentinelOne, Inc. Class A Common Stock",NYSE,23.8403,25.66,-1.8147011,-7.073479,2026-10-13T11:46:35.272674+00:00,Yes
+WDC,Western Digital Corporation - Common Stock,NASDAQ,363.34,386.94,-23.600006,-6.0991383,2026-10-13T11:46:35.272674+00:00,Yes
+JILL,"J. Jill, Inc. Common Stock",NYSE,23.01,24.4,-1.3349991,-5.483669,2026-10-13T11:46:35.272674+00:00,Yes
+STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,712.0,753.25,-41.25,-5.4762697,2026-10-13T11:46:35.272674+00:00,Yes
+BAND,Bandwidth Inc. - Class A Common Stock,NASDAQ,49.98,52.77,-2.790001,-5.2870965,2026-10-13T11:46:35.272674+00:00,Yes
+SECZ,Securitize Corp. Common Stock,NYSE,11.3,11.86,-0.55999947,-4.7217493,2026-10-13T11:46:35.272674+00:00,No
+ICHR,Ichor Holdings - Ordinary Shares,NASDAQ,51.88,54.38,-2.5,-4.597278,2026-10-13T11:46:35.272674+00:00,Yes
+SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1420.0,1487.33,-67.329956,-4.5269012,2026-10-13T11:46:35.272674+00:00,Yes
+SVRN,"SVRN, Inc. - Common Stock",NASDAQ,46.5,48.49,-1.9900017,-4.1039424,2026-10-13T11:46:35.272674+00:00,No
+ACI,"Albertsons Companies, Inc. Class A Common Stock",NYSE,12.03,12.54,-0.5100002,-4.0669875,2026-10-13T11:46:35.272674+00:00,Yes
+VFC,V.F. Corporation Common Stock,NYSE,16.4387,15.79,0.63869953,4.0424023,2026-10-13T11:46:35.272674+00:00,Yes
+MRNA,"Moderna, Inc. - Common Stock",NASDAQ,205.22,213.74,-8.520004,-3.9861534,2026-10-13T11:46:35.272674+00:00,Yes
+MXL,"MaxLinear, Inc - Common Stock",NASDAQ,85.4607,88.99,-3.5292969,-3.9659479,2026-10-13T11:46:35.272674+00:00,No
+UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ,61.0,63.51,-2.5099983,-3.952131,2026-10-13T11:46:35.272674+00:00,Yes
+MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,294.3,306.36,-12.059998,-3.9365447,2026-10-13T11:46:35.272674+00:00,Yes
