@@ -1,22 +1,22 @@
-generated_at,2026-10-16T06:08:18.226046+03:00,vol_5h_date,2026-10-15,vol_status,STALE
+generated_at,2026-10-16T06:38:16.752137+03:00,vol_5h_date,2026-10-15,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ,12.4424,11.42,1.0223999,8.952714,2026-10-16T03:08:07.668343+00:00,No
-CTGO,Contango Silver & Gold Inc. Common Stock,NYSE American,14.3239,15.15,-0.8260994,-5.452801,2026-10-16T03:08:07.668343+00:00,Yes
-CHRN,ChronoScale Holdings Corporation - Common Stock,NASDAQ,16.89,16.05,0.84000015,5.233646,2026-10-16T03:08:07.668343+00:00,No
-ICHR,Ichor Holdings - Ordinary Shares,NASDAQ,48.4,46.65,1.75,3.7513397,2026-10-16T03:08:07.668343+00:00,Yes
-MITK,"Mitek Systems, Inc. - Common Stock",NASDAQ,16.2503,16.88,-0.6296997,-3.7304487,2026-10-16T03:08:07.668343+00:00,Yes
-USAU,U.S. Gold Corp. - Common Stock,NASDAQ,12.55,12.11,0.44000053,3.6333654,2026-10-16T03:08:07.668343+00:00,Yes
-CAI,"Caris Life Sciences, Inc. - Common Stock",NASDAQ,30.61,31.76,-1.1499996,-3.6209056,2026-10-16T03:08:07.668343+00:00,Yes
-ELMT,The Elmet Group Co. - Common Stock,NASDAQ,20.172,19.49,0.6820011,3.499236,2026-10-16T03:08:07.668343+00:00,No
-EQPT,EquipmentShare.com Inc - Class A Common Stock,NASDAQ,13.91,14.41,-0.5,-3.4698126,2026-10-16T03:08:07.668343+00:00,Yes
-FTRE,Fortrea Holdings Inc. - Common Stock,NASDAQ,23.51,22.745,0.7649994,3.3633738,2026-10-16T03:08:07.668343+00:00,Yes
-AMRX,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ,19.84,19.25,0.59000015,3.064936,2026-10-16T03:08:07.668343+00:00,Yes
-SMTC,Semtech Corporation - Common Stock,NASDAQ,148.5,144.21,4.2899933,2.9748235,2026-10-16T03:08:07.668343+00:00,Yes
-KF,"Korea Fund, Inc. (The) New Common Stock",NYSE,56.1,57.73,-1.63,-2.82349,2026-10-16T03:08:07.668343+00:00,Yes
-MIR,"Mirion Technologies, Inc. Class A Common Stock",NYSE,15.95,15.54,0.40999985,2.6383517,2026-10-16T03:08:07.668343+00:00,Yes
-NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,NYSE,10.04,9.792,0.248,2.53268,2026-10-16T03:08:07.668343+00:00,No
-TFPM,Triple Flag Precious Metals Corp. Common Shares,NYSE,31.25,30.49,0.7600002,2.4926212,2026-10-16T03:08:07.668343+00:00,Yes
-PEN,"Penumbra, Inc. Common Stock",NYSE,328.98,321.2,7.779999,2.4221663,2026-10-16T03:08:07.668343+00:00,Yes
-FND,"Floor & Decor Holdings, Inc. Common Stock",NYSE,46.8588,45.76,1.0988007,2.4012253,2026-10-16T03:08:07.668343+00:00,Yes
-ELAN,Elanco Animal Health Incorporated Common Stock,NYSE,23.0,23.54,-0.5400009,-2.2939715,2026-10-16T03:08:07.668343+00:00,Yes
-RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,NYSE,10.8944,11.15,-0.25559998,-2.2923765,2026-10-16T03:08:07.668343+00:00,Yes
+AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ,12.4424,11.42,1.0223999,8.952714,2026-10-16T03:38:07.292712+00:00,No
+CTGO,Contango Silver & Gold Inc. Common Stock,NYSE American,14.3239,15.15,-0.8260994,-5.452801,2026-10-16T03:38:07.292712+00:00,Yes
+CHRN,ChronoScale Holdings Corporation - Common Stock,NASDAQ,16.89,16.05,0.84000015,5.233646,2026-10-16T03:38:07.292712+00:00,No
+ICHR,Ichor Holdings - Ordinary Shares,NASDAQ,48.4,46.65,1.75,3.7513397,2026-10-16T03:38:07.292712+00:00,Yes
+MITK,"Mitek Systems, Inc. - Common Stock",NASDAQ,16.2503,16.88,-0.6296997,-3.7304487,2026-10-16T03:38:07.292712+00:00,Yes
+USAU,U.S. Gold Corp. - Common Stock,NASDAQ,12.55,12.11,0.44000053,3.6333654,2026-10-16T03:38:07.292712+00:00,Yes
+CAI,"Caris Life Sciences, Inc. - Common Stock",NASDAQ,30.61,31.76,-1.1499996,-3.6209056,2026-10-16T03:38:07.292712+00:00,Yes
+ELMT,The Elmet Group Co. - Common Stock,NASDAQ,20.172,19.49,0.6820011,3.499236,2026-10-16T03:38:07.292712+00:00,No
+EQPT,EquipmentShare.com Inc - Class A Common Stock,NASDAQ,13.91,14.41,-0.5,-3.4698126,2026-10-16T03:38:07.292712+00:00,Yes
+FTRE,Fortrea Holdings Inc. - Common Stock,NASDAQ,23.51,22.745,0.7649994,3.3633738,2026-10-16T03:38:07.292712+00:00,Yes
+AMRX,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",NASDAQ,19.84,19.25,0.59000015,3.064936,2026-10-16T03:38:07.292712+00:00,Yes
+SMTC,Semtech Corporation - Common Stock,NASDAQ,148.5,144.21,4.2899933,2.9748235,2026-10-16T03:38:07.292712+00:00,Yes
+KF,"Korea Fund, Inc. (The) New Common Stock",NYSE,56.1,57.73,-1.63,-2.82349,2026-10-16T03:38:07.292712+00:00,Yes
+MIR,"Mirion Technologies, Inc. Class A Common Stock",NYSE,15.95,15.54,0.40999985,2.6383517,2026-10-16T03:38:07.292712+00:00,Yes
+NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,NYSE,10.04,9.792,0.248,2.53268,2026-10-16T03:38:07.292712+00:00,No
+TFPM,Triple Flag Precious Metals Corp. Common Shares,NYSE,31.25,30.49,0.7600002,2.4926212,2026-10-16T03:38:07.292712+00:00,Yes
+PEN,"Penumbra, Inc. Common Stock",NYSE,328.98,321.2,7.779999,2.4221663,2026-10-16T03:38:07.292712+00:00,Yes
+FND,"Floor & Decor Holdings, Inc. Common Stock",NYSE,46.8588,45.76,1.0988007,2.4012253,2026-10-16T03:38:07.292712+00:00,Yes
+ELAN,Elanco Animal Health Incorporated Common Stock,NYSE,23.0,23.54,-0.5400009,-2.2939715,2026-10-16T03:38:07.292712+00:00,Yes
+RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,NYSE,10.8944,11.15,-0.25559998,-2.2923765,2026-10-16T03:38:07.292712+00:00,Yes
