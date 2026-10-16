@@ -1,22 +1,22 @@
-generated_at,2026-10-16T12:34:06.691076+03:00,vol_5h_date,2026-10-15,vol_status,STALE
+generated_at,2026-10-16T13:04:07.205458+03:00,vol_5h_date,2026-10-15,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-MAN,ManpowerGroup Common Stock,NYSE,43.74,51.96,-8.22,-15.8199,2026-10-16T09:33:57.433628+00:00,Yes
-SVRN,"SVRN, Inc. - Common Stock",NASDAQ,41.78,36.51,5.27,14.4344,2026-10-16T09:33:57.433628+00:00,No
-SWMR,"Swarmer, Inc - common stock",NASDAQ,11.24,10.07,1.1700001,11.61867,2026-10-16T09:33:57.433628+00:00,No
-APPS,"Digital Turbine, Inc. - Common Stock",NASDAQ,10.54,9.52,1.02,10.7143,2026-10-16T09:33:57.433628+00:00,Yes
-AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ,12.6059,11.42,1.1858997,10.384411,2026-10-16T09:33:57.433628+00:00,No
-ARQT,"Arcutis Biotherapeutics, Inc. - Common stock",NASDAQ,29.1,26.41,2.69,10.1855,2026-10-16T09:33:57.433628+00:00,Yes
-SMG,Scotts Miracle-Gro Company (The) Common Stock,NYSE,54.25,49.72,4.53,9.11102,2026-10-16T09:33:57.433628+00:00,Yes
-PAG,"Penske Automotive Group, Inc. Common Stock",NYSE,212.0,194.79,17.21,8.83516,2026-10-16T09:33:57.433628+00:00,Yes
-KOD,Kodiak Sciences Inc - Common Stock,NASDAQ,88.12,81.09,7.03001,8.66939,2026-10-16T09:33:57.433628+00:00,Yes
-PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,50.62,46.605,4.015,8.61495,2026-10-16T09:33:57.433628+00:00,Yes
-CHRN,ChronoScale Holdings Corporation - Common Stock,NASDAQ,16.05,14.88,1.17,7.8629,2026-10-16T09:33:57.433628+00:00,No
-MNDY,monday.com Ltd. - Ordinary Shares,NASDAQ,94.3,87.47,6.83,7.80839,2026-10-16T09:33:57.433628+00:00,Yes
-APPF,"AppFolio, Inc. - Class A Common Stock",NASDAQ,218.61,203.18,15.43,7.59426,2026-10-16T09:33:57.433628+00:00,Yes
-QURE,uniQure N.V. - Ordinary Shares,NASDAQ,22.52,20.97,1.55,7.39152,2026-10-16T09:33:57.433628+00:00,Yes
-VERX,"Vertex, Inc. - Class A Common Stock",NASDAQ,13.66,12.74,0.92,7.22135,2026-10-16T09:33:57.433628+00:00,Yes
-TH,Target Hospitality Corp. - Common Stock,NASDAQ,16.02,17.26,-1.24,-7.18424,2026-10-16T09:33:57.433628+00:00,Yes
-AVEX,AEVEX Corp. Class A Common Stock,NYSE,15.19,14.18,1.01,7.1227,2026-10-16T09:33:57.433628+00:00,Yes
-ODD,ODDITY Tech Ltd. - Class A Ordinary Shares,NASDAQ,23.17,21.63,1.54,7.11975,2026-10-16T09:33:57.433628+00:00,Yes
-MITK,"Mitek Systems, Inc. - Common Stock",NASDAQ,16.88,15.79,1.09,6.9031,2026-10-16T09:33:57.433628+00:00,Yes
-MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,271.39,291.33,-19.94,-6.84446,2026-10-16T09:33:57.433628+00:00,Yes
+MAN,ManpowerGroup Common Stock,NYSE,43.74,51.96,-8.22,-15.8199,2026-10-16T10:03:57.205498+00:00,Yes
+AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ,13.1375,11.42,1.7174997,15.039402,2026-10-16T10:03:57.205498+00:00,No
+SVRN,"SVRN, Inc. - Common Stock",NASDAQ,41.78,36.51,5.27,14.4344,2026-10-16T10:03:57.205498+00:00,No
+SWMR,"Swarmer, Inc - common stock",NASDAQ,11.24,10.07,1.1700001,11.61867,2026-10-16T10:03:57.205498+00:00,No
+APPS,"Digital Turbine, Inc. - Common Stock",NASDAQ,10.54,9.52,1.02,10.7143,2026-10-16T10:03:57.205498+00:00,Yes
+ARQT,"Arcutis Biotherapeutics, Inc. - Common stock",NASDAQ,29.1,26.41,2.69,10.1855,2026-10-16T10:03:57.205498+00:00,Yes
+SMG,Scotts Miracle-Gro Company (The) Common Stock,NYSE,54.25,49.72,4.53,9.11102,2026-10-16T10:03:57.205498+00:00,Yes
+PAG,"Penske Automotive Group, Inc. Common Stock",NYSE,212.0,194.79,17.21,8.83516,2026-10-16T10:03:57.205498+00:00,Yes
+KOD,Kodiak Sciences Inc - Common Stock,NASDAQ,88.12,81.09,7.03001,8.66939,2026-10-16T10:03:57.205498+00:00,Yes
+PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,50.62,46.605,4.015,8.61495,2026-10-16T10:03:57.205498+00:00,Yes
+CHRN,ChronoScale Holdings Corporation - Common Stock,NASDAQ,16.05,14.88,1.17,7.8629,2026-10-16T10:03:57.205498+00:00,No
+MNDY,monday.com Ltd. - Ordinary Shares,NASDAQ,94.3,87.47,6.83,7.80839,2026-10-16T10:03:57.205498+00:00,Yes
+APPF,"AppFolio, Inc. - Class A Common Stock",NASDAQ,218.61,203.18,15.43,7.59426,2026-10-16T10:03:57.205498+00:00,Yes
+VERX,"Vertex, Inc. - Class A Common Stock",NASDAQ,13.66,12.74,0.92,7.22135,2026-10-16T10:03:57.205498+00:00,Yes
+TH,Target Hospitality Corp. - Common Stock,NASDAQ,16.02,17.26,-1.24,-7.18424,2026-10-16T10:03:57.205498+00:00,Yes
+AVEX,AEVEX Corp. Class A Common Stock,NYSE,15.19,14.18,1.01,7.1227,2026-10-16T10:03:57.205498+00:00,Yes
+ODD,ODDITY Tech Ltd. - Class A Ordinary Shares,NASDAQ,23.17,21.63,1.54,7.11975,2026-10-16T10:03:57.205498+00:00,Yes
+MITK,"Mitek Systems, Inc. - Common Stock",NASDAQ,16.88,15.79,1.09,6.9031,2026-10-16T10:03:57.205498+00:00,Yes
+MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,271.39,291.33,-19.94,-6.84446,2026-10-16T10:03:57.205498+00:00,Yes
+GWRE,"Guidewire Software, Inc. Common Stock",NYSE,175.77,164.92,10.85,6.57895,2026-10-16T10:03:57.205498+00:00,Yes
