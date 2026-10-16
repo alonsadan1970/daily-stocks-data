@@ -1,4 +1,4 @@
-generated_at,2026-10-16T08:38:16.988683+03:00,vol_5h_date,2026-10-15,vol_status,STALE
+generated_at,2026-10-16T11:34:01.211933+03:00,vol_5h_date,2026-10-15,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 LLY,Eli Lilly and Company Common Stock,NYSE,1251.61,1208.74,42.87,3.54667,2026-10-16T05:38:07.265326+00:00,Yes
 DELL,Dell Technologies Inc. Class C Common Stock,NYSE,473.39,507.93,-34.54,-6.80015,2026-10-16T05:38:07.265326+00:00,Yes

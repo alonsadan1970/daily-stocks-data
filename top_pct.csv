@@ -1,4 +1,4 @@
-generated_at,2026-10-16T08:38:16.988683+03:00,vol_5h_date,2026-10-15,vol_status,STALE
+generated_at,2026-10-16T11:34:01.211933+03:00,vol_5h_date,2026-10-15,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 MAN,ManpowerGroup Common Stock,NYSE,43.74,51.96,-8.22,-15.8199,2026-10-16T05:38:07.265326+00:00,Yes
 SVRN,"SVRN, Inc. - Common Stock",NASDAQ,41.78,36.51,5.27,14.4344,2026-10-16T05:38:07.265326+00:00,No
