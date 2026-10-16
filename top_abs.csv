@@ -1,22 +1,22 @@
-generated_at,2026-10-16T07:38:16.324418+03:00,vol_5h_date,2026-10-15,vol_status,STALE
+generated_at,2026-10-16T08:08:17.128811+03:00,vol_5h_date,2026-10-15,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-LLY,Eli Lilly and Company Common Stock,NYSE,1251.61,1208.74,42.87,3.54667,2026-10-16T04:38:07.275330+00:00,Yes
-DELL,Dell Technologies Inc. Class C Common Stock,NYSE,473.39,507.93,-34.54,-6.80015,2026-10-16T04:38:07.275330+00:00,Yes
-CVCO,"Cavco Industries, Inc. - Common Stock",NASDAQ,535.6,506.3,29.3,5.78708,2026-10-16T04:38:07.275330+00:00,Yes
-LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ,869.54,896.33,-26.79,-2.98886,2026-10-16T04:38:07.275330+00:00,Yes
-VICR,Vicor Corporation - Common Stock,NASDAQ,219.92,245.35,-25.43,-10.3648,2026-10-16T04:38:07.275330+00:00,Yes
-SITM,SiTime Corporation - Common Stock,NASDAQ,501.59,524.93,-23.34,-4.44631,2026-10-16T04:38:07.275330+00:00,Yes
-TMO,Thermo Fisher Scientific Inc Common Stock,NYSE,696.49,673.2,23.29,3.45959,2026-10-16T04:38:07.275330+00:00,Yes
-STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,690.81,713.54,-22.73,-3.18552,2026-10-16T04:38:07.275330+00:00,Yes
-MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,271.39,291.33,-19.94,-6.84446,2026-10-16T04:38:07.275330+00:00,Yes
-INTU,Intuit Inc. - Common Stock,NASDAQ,330.17,310.44,19.73,6.3555,2026-10-16T04:38:07.275330+00:00,Yes
-PWR,"Quanta Services, Inc. Common Stock",NYSE,642.21,660.53,-18.32,-2.77353,2026-10-16T04:38:07.275330+00:00,Yes
-REGN,"Regeneron Pharmaceuticals, Inc. - Common Stock",NASDAQ,796.34,778.36,17.98,2.30999,2026-10-16T04:38:07.275330+00:00,Yes
-PAG,"Penske Automotive Group, Inc. Common Stock",NYSE,212.0,194.79,17.21,8.83516,2026-10-16T04:38:07.275330+00:00,Yes
-MU,"Micron Technology, Inc. - Common Stock",NASDAQ,931.24,914.13,17.11,1.87172,2026-10-16T04:38:07.275330+00:00,Yes
-APP,Applovin Corporation - Class A Common Stock,NASDAQ,279.29,262.19,17.1,6.52199,2026-10-16T04:38:07.275330+00:00,Yes
-AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,430.01,446.63,-16.62,-3.7212,2026-10-16T04:38:07.275330+00:00,Yes
-WINA,Winmark Corporation - Common Stock,NASDAQ,314.26,297.97,16.29,5.467,2026-10-16T04:38:07.275330+00:00,Yes
-SPGI,S&P Global Inc. Common Stock,NYSE,424.81,408.57,16.24,3.97484,2026-10-16T04:38:07.275330+00:00,Yes
-TER,"Teradyne, Inc. - Common Stock",NASDAQ,343.21,359.44,-16.23,-4.51536,2026-10-16T04:38:07.275330+00:00,Yes
-SMTC,Semtech Corporation - Common Stock,NASDAQ,144.21,160.26,-16.05,-10.015,2026-10-16T04:38:07.275330+00:00,Yes
+LLY,Eli Lilly and Company Common Stock,NYSE,1251.61,1208.74,42.87,3.54667,2026-10-16T05:08:07.264531+00:00,Yes
+DELL,Dell Technologies Inc. Class C Common Stock,NYSE,473.39,507.93,-34.54,-6.80015,2026-10-16T05:08:07.264531+00:00,Yes
+CVCO,"Cavco Industries, Inc. - Common Stock",NASDAQ,535.6,506.3,29.3,5.78708,2026-10-16T05:08:07.264531+00:00,Yes
+LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ,869.54,896.33,-26.79,-2.98886,2026-10-16T05:08:07.264531+00:00,Yes
+VICR,Vicor Corporation - Common Stock,NASDAQ,219.92,245.35,-25.43,-10.3648,2026-10-16T05:08:07.264531+00:00,Yes
+SITM,SiTime Corporation - Common Stock,NASDAQ,501.59,524.93,-23.34,-4.44631,2026-10-16T05:08:07.264531+00:00,Yes
+TMO,Thermo Fisher Scientific Inc Common Stock,NYSE,696.49,673.2,23.29,3.45959,2026-10-16T05:08:07.264531+00:00,Yes
+STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,690.81,713.54,-22.73,-3.18552,2026-10-16T05:08:07.264531+00:00,Yes
+MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,271.39,291.33,-19.94,-6.84446,2026-10-16T05:08:07.264531+00:00,Yes
+INTU,Intuit Inc. - Common Stock,NASDAQ,330.17,310.44,19.73,6.3555,2026-10-16T05:08:07.264531+00:00,Yes
+PWR,"Quanta Services, Inc. Common Stock",NYSE,642.21,660.53,-18.32,-2.77353,2026-10-16T05:08:07.264531+00:00,Yes
+REGN,"Regeneron Pharmaceuticals, Inc. - Common Stock",NASDAQ,796.34,778.36,17.98,2.30999,2026-10-16T05:08:07.264531+00:00,Yes
+PAG,"Penske Automotive Group, Inc. Common Stock",NYSE,212.0,194.79,17.21,8.83516,2026-10-16T05:08:07.264531+00:00,Yes
+MU,"Micron Technology, Inc. - Common Stock",NASDAQ,931.24,914.13,17.11,1.87172,2026-10-16T05:08:07.264531+00:00,Yes
+APP,Applovin Corporation - Class A Common Stock,NASDAQ,279.29,262.19,17.1,6.52199,2026-10-16T05:08:07.264531+00:00,Yes
+AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,430.01,446.63,-16.62,-3.7212,2026-10-16T05:08:07.264531+00:00,Yes
+WINA,Winmark Corporation - Common Stock,NASDAQ,314.26,297.97,16.29,5.467,2026-10-16T05:08:07.264531+00:00,Yes
+SPGI,S&P Global Inc. Common Stock,NYSE,424.81,408.57,16.24,3.97484,2026-10-16T05:08:07.264531+00:00,Yes
+TER,"Teradyne, Inc. - Common Stock",NASDAQ,343.21,359.44,-16.23,-4.51536,2026-10-16T05:08:07.264531+00:00,Yes
+SMTC,Semtech Corporation - Common Stock,NASDAQ,144.21,160.26,-16.05,-10.015,2026-10-16T05:08:07.264531+00:00,Yes

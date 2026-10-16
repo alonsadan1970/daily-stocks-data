@@ -1,22 +1,22 @@
-generated_at,2026-10-16T07:38:16.324418+03:00,vol_5h_date,2026-10-15,vol_status,STALE
+generated_at,2026-10-16T08:08:17.128811+03:00,vol_5h_date,2026-10-15,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-MAN,ManpowerGroup Common Stock,NYSE,43.74,51.96,-8.22,-15.8199,2026-10-16T04:38:07.275330+00:00,Yes
-SVRN,"SVRN, Inc. - Common Stock",NASDAQ,41.78,36.51,5.27,14.4344,2026-10-16T04:38:07.275330+00:00,No
-KRMN,Karman Holdings Inc. Common Stock,NYSE,33.9,30.14,3.76,12.4751,2026-10-16T04:38:07.275330+00:00,Yes
-QNT,Quantinuum Inc. - Class A Common Stock,NASDAQ,36.68,33.03,3.65,11.0506,2026-10-16T04:38:07.275330+00:00,Yes
-Z,"Zillow Group, Inc. - Class C Capital Stock",NASDAQ,31.46,28.33,3.13,11.0484,2026-10-16T04:38:07.275330+00:00,Yes
-APPS,"Digital Turbine, Inc. - Common Stock",NASDAQ,10.54,9.52,1.02,10.7143,2026-10-16T04:38:07.275330+00:00,Yes
-FIGR,"Figure Technology Solutions, Inc. - Class A Common Stock",NASDAQ,27.67,25.05,2.62,10.4591,2026-10-16T04:38:07.275330+00:00,Yes
-VICR,Vicor Corporation - Common Stock,NASDAQ,219.92,245.35,-25.43,-10.3648,2026-10-16T04:38:07.275330+00:00,Yes
-ARQT,"Arcutis Biotherapeutics, Inc. - Common stock",NASDAQ,29.1,26.41,2.69,10.1855,2026-10-16T04:38:07.275330+00:00,Yes
-SMTC,Semtech Corporation - Common Stock,NASDAQ,144.21,160.26,-16.05,-10.015,2026-10-16T04:38:07.275330+00:00,Yes
-QMCO,Quantum Corporation - Common Stock,NASDAQ,21.605,23.86,-2.255,-9.45097,2026-10-16T04:38:07.275330+00:00,Yes
-WULF,TeraWulf Inc. - Common Stock,NASDAQ,12.62,11.54,1.08,9.35875,2026-10-16T04:38:07.275330+00:00,Yes
-CRCL,"Circle Internet Group, Inc. Class A Common Stock",NYSE,86.97,79.55,7.42,9.32746,2026-10-16T04:38:07.275330+00:00,Yes
-IONQ,"IonQ, Inc. Common Stock",NYSE,34.35,31.42,2.93,9.32526,2026-10-16T04:38:07.275330+00:00,Yes
-SMG,Scotts Miracle-Gro Company (The) Common Stock,NYSE,54.25,49.72,4.53,9.11102,2026-10-16T04:38:07.275330+00:00,Yes
-UPST,"Upstart Holdings, Inc. - Common stock",NASDAQ,24.75,22.74,2.01,8.83905,2026-10-16T04:38:07.275330+00:00,Yes
-PAG,"Penske Automotive Group, Inc. Common Stock",NYSE,212.0,194.79,17.21,8.83516,2026-10-16T04:38:07.275330+00:00,Yes
-KOD,Kodiak Sciences Inc - Common Stock,NASDAQ,88.12,81.09,7.03001,8.66939,2026-10-16T04:38:07.275330+00:00,Yes
-PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,50.62,46.605,4.015,8.61495,2026-10-16T04:38:07.275330+00:00,Yes
-PENG,"Penguin Solutions, Inc. - Common Stock",NASDAQ,61.86,67.59,-5.73,-8.47758,2026-10-16T04:38:07.275330+00:00,Yes
+MAN,ManpowerGroup Common Stock,NYSE,43.74,51.96,-8.22,-15.8199,2026-10-16T05:08:07.264531+00:00,Yes
+SVRN,"SVRN, Inc. - Common Stock",NASDAQ,41.78,36.51,5.27,14.4344,2026-10-16T05:08:07.264531+00:00,No
+KRMN,Karman Holdings Inc. Common Stock,NYSE,33.9,30.14,3.76,12.4751,2026-10-16T05:08:07.264531+00:00,Yes
+QNT,Quantinuum Inc. - Class A Common Stock,NASDAQ,36.68,33.03,3.65,11.0506,2026-10-16T05:08:07.264531+00:00,Yes
+Z,"Zillow Group, Inc. - Class C Capital Stock",NASDAQ,31.46,28.33,3.13,11.0484,2026-10-16T05:08:07.264531+00:00,Yes
+APPS,"Digital Turbine, Inc. - Common Stock",NASDAQ,10.54,9.52,1.02,10.7143,2026-10-16T05:08:07.264531+00:00,Yes
+FIGR,"Figure Technology Solutions, Inc. - Class A Common Stock",NASDAQ,27.67,25.05,2.62,10.4591,2026-10-16T05:08:07.264531+00:00,Yes
+VICR,Vicor Corporation - Common Stock,NASDAQ,219.92,245.35,-25.43,-10.3648,2026-10-16T05:08:07.264531+00:00,Yes
+ARQT,"Arcutis Biotherapeutics, Inc. - Common stock",NASDAQ,29.1,26.41,2.69,10.1855,2026-10-16T05:08:07.264531+00:00,Yes
+SMTC,Semtech Corporation - Common Stock,NASDAQ,144.21,160.26,-16.05,-10.015,2026-10-16T05:08:07.264531+00:00,Yes
+QMCO,Quantum Corporation - Common Stock,NASDAQ,21.605,23.86,-2.255,-9.45097,2026-10-16T05:08:07.264531+00:00,Yes
+WULF,TeraWulf Inc. - Common Stock,NASDAQ,12.62,11.54,1.08,9.35875,2026-10-16T05:08:07.264531+00:00,Yes
+CRCL,"Circle Internet Group, Inc. Class A Common Stock",NYSE,86.97,79.55,7.42,9.32746,2026-10-16T05:08:07.264531+00:00,Yes
+IONQ,"IonQ, Inc. Common Stock",NYSE,34.35,31.42,2.93,9.32526,2026-10-16T05:08:07.264531+00:00,Yes
+SMG,Scotts Miracle-Gro Company (The) Common Stock,NYSE,54.25,49.72,4.53,9.11102,2026-10-16T05:08:07.264531+00:00,Yes
+UPST,"Upstart Holdings, Inc. - Common stock",NASDAQ,24.75,22.74,2.01,8.83905,2026-10-16T05:08:07.264531+00:00,Yes
+PAG,"Penske Automotive Group, Inc. Common Stock",NYSE,212.0,194.79,17.21,8.83516,2026-10-16T05:08:07.264531+00:00,Yes
+KOD,Kodiak Sciences Inc - Common Stock,NASDAQ,88.12,81.09,7.03001,8.66939,2026-10-16T05:08:07.264531+00:00,Yes
+PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,50.62,46.605,4.015,8.61495,2026-10-16T05:08:07.264531+00:00,Yes
+PENG,"Penguin Solutions, Inc. - Common Stock",NASDAQ,61.86,67.59,-5.73,-8.47758,2026-10-16T05:08:07.264531+00:00,Yes
