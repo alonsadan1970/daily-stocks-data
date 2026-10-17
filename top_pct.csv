@@ -1,4 +1,4 @@
-generated_at,2026-10-17T01:34:06.479945+03:00,vol_5h_date,2026-10-16,vol_status,STALE
+generated_at,2026-10-17T03:11:41.046397+03:00,vol_5h_date,2026-10-16,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 SVRN,"SVRN, Inc. - Common Stock",NASDAQ,35.05,41.78,-6.7299995,-16.108185,2026-10-16T22:33:57.137281+00:00,No
 SAN,"Banco Santander, S.A. Sponsored ADR (Spain)",NYSE,12.5081,13.3,-0.79190063,-5.95414,2026-10-16T22:33:57.137281+00:00,Yes
