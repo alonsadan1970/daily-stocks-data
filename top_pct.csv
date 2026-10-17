@@ -1,22 +1,22 @@
-generated_at,2026-10-17T11:34:06.565927+03:00,vol_5h_date,2026-10-16,vol_status,STALE
+generated_at,2026-10-17T18:04:07.028024+03:00,vol_5h_date,2026-10-16,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-PMI,"Picard Medical, Inc. Common Stock",NYSE American,12.75,10.0,2.75,27.5,2026-10-17T08:33:57.165489+00:00,No
-SVRN,"SVRN, Inc. - Common Stock",NASDAQ,35.05,41.78,-6.73,-16.1082,2026-10-17T08:33:57.165489+00:00,No
-BSP,Bending Spoons S.p.A. - Ordinary Shares,NASDAQ,47.07,55.77,-8.7,-15.5998,2026-10-17T08:33:57.165489+00:00,No
-QMCO,Quantum Corporation - Common Stock,NASDAQ,18.48,21.605,-3.125,-14.4642,2026-10-17T08:33:57.165489+00:00,Yes
-SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",NASDAQ,26.59,31.03,-4.44,-14.3087,2026-10-17T08:33:57.165489+00:00,Yes
-OMER,Omeros Corporation - Common Stock,NASDAQ,16.2,18.79,-2.59,-13.7839,2026-10-17T08:33:57.165489+00:00,Yes
-TLK,"PT Telekomunikasi Indonesia, Tbk",NYSE,11.03,12.78,-1.75,-13.6933,2026-10-17T08:33:57.165489+00:00,Yes
-VICR,Vicor Corporation - Common Stock,NASDAQ,191.5,219.92,-28.42,-12.9229,2026-10-17T08:33:57.165489+00:00,Yes
-DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",NYSE,10.27,11.76,-1.49,-12.6701,2026-10-17T08:33:57.165489+00:00,Yes
-BAND,Bandwidth Inc. - Class A Common Stock,NASDAQ,43.34,49.6,-6.26,-12.621,2026-10-17T08:33:57.165489+00:00,Yes
-AEHR,Aehr Test Systems - Common Stock,NASDAQ,60.6,69.21,-8.61,-12.4404,2026-10-17T08:33:57.165489+00:00,Yes
-NBIS,Nebius Group N.V. - Class A Ordinary Shares,NASDAQ,165.47,188.41,-22.94,-12.1756,2026-10-17T08:33:57.165489+00:00,Yes
-NVAX,"Novavax, Inc. - Common Stock",NASDAQ,11.26,12.82,-1.56,-12.1685,2026-10-17T08:33:57.165489+00:00,Yes
-CRWV,"CoreWeave, Inc. - Class A Common Stock",NASDAQ,61.39,69.69,-8.3,-11.9099,2026-10-17T08:33:57.165489+00:00,Yes
-ARQQ,Arqit Quantum Inc. - Ordinary Shares,NASDAQ,14.02,15.9,-1.88,-11.8239,2026-10-17T08:33:57.165489+00:00,No
-GLXY,Galaxy Digital Inc. - Class A common stock,NASDAQ,16.14,18.25,-2.11,-11.5616,2026-10-17T08:33:57.165489+00:00,Yes
-RIOT,"Riot Platforms, Inc. - Common Stock",NASDAQ,13.72,15.5,-1.78,-11.4839,2026-10-17T08:33:57.165489+00:00,Yes
-APLD,Applied Digital Corporation - Common Stock,NASDAQ,18.05,20.39,-2.34,-11.4762,2026-10-17T08:33:57.165489+00:00,Yes
-SDGR,"Schrodinger, Inc. - Common Stock",NASDAQ,22.6,25.48,-2.88,-11.303,2026-10-17T08:33:57.165489+00:00,Yes
-IREN,IREN Limited - Ordinary Shares,NASDAQ,26.99,30.39,-3.4,-11.1879,2026-10-17T08:33:57.165489+00:00,Yes
+PMI,"Picard Medical, Inc. Common Stock",NYSE American,12.75,10.0,2.75,27.5,2026-10-17T15:03:57.700954+00:00,No
+SVRN,"SVRN, Inc. - Common Stock",NASDAQ,35.05,41.78,-6.73,-16.1082,2026-10-17T15:03:57.700954+00:00,No
+BSP,Bending Spoons S.p.A. - Ordinary Shares,NASDAQ,47.07,55.77,-8.700001,-15.599786,2026-10-17T15:03:57.700954+00:00,No
+QMCO,Quantum Corporation - Common Stock,NASDAQ,18.48,21.605,-3.125,-14.4642,2026-10-17T15:03:57.700954+00:00,Yes
+SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",NASDAQ,26.59,31.03,-4.44,-14.3087,2026-10-17T15:03:57.700954+00:00,Yes
+OMER,Omeros Corporation - Common Stock,NASDAQ,16.2,18.79,-2.59,-13.7839,2026-10-17T15:03:57.700954+00:00,Yes
+TLK,"PT Telekomunikasi Indonesia, Tbk",NYSE,11.03,12.78,-1.75,-13.6933,2026-10-17T15:03:57.700954+00:00,Yes
+VICR,Vicor Corporation - Common Stock,NASDAQ,191.5,219.92,-28.42,-12.9229,2026-10-17T15:03:57.700954+00:00,Yes
+DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",NYSE,10.27,11.76,-1.49,-12.6701,2026-10-17T15:03:57.700954+00:00,Yes
+BAND,Bandwidth Inc. - Class A Common Stock,NASDAQ,43.34,49.6,-6.26,-12.621,2026-10-17T15:03:57.700954+00:00,Yes
+AEHR,Aehr Test Systems - Common Stock,NASDAQ,60.6,69.21,-8.61,-12.4404,2026-10-17T15:03:57.700954+00:00,Yes
+NBIS,Nebius Group N.V. - Class A Ordinary Shares,NASDAQ,165.47,188.41,-22.94,-12.1756,2026-10-17T15:03:57.700954+00:00,Yes
+NVAX,"Novavax, Inc. - Common Stock",NASDAQ,11.26,12.82,-1.56,-12.1685,2026-10-17T15:03:57.700954+00:00,Yes
+CRWV,"CoreWeave, Inc. - Class A Common Stock",NASDAQ,61.39,69.69,-8.3,-11.9099,2026-10-17T15:03:57.700954+00:00,Yes
+ARQQ,Arqit Quantum Inc. - Ordinary Shares,NASDAQ,14.02,15.9,-1.88,-11.8239,2026-10-17T15:03:57.700954+00:00,No
+GLXY,Galaxy Digital Inc. - Class A common stock,NASDAQ,16.14,18.25,-2.11,-11.5616,2026-10-17T15:03:57.700954+00:00,Yes
+RIOT,"Riot Platforms, Inc. - Common Stock",NASDAQ,13.72,15.5,-1.78,-11.4839,2026-10-17T15:03:57.700954+00:00,Yes
+APLD,Applied Digital Corporation - Common Stock,NASDAQ,18.05,20.39,-2.3400002,-11.476215,2026-10-17T15:03:57.700954+00:00,Yes
+SDGR,"Schrodinger, Inc. - Common Stock",NASDAQ,22.6,25.48,-2.88,-11.303,2026-10-17T15:03:57.700954+00:00,Yes
+IREN,IREN Limited - Ordinary Shares,NASDAQ,26.99,30.39,-3.4,-11.1879,2026-10-17T15:03:57.700954+00:00,Yes

@@ -1,22 +1,22 @@
-generated_at,2026-10-17T11:34:06.565927+03:00,vol_5h_date,2026-10-16,vol_status,STALE
+generated_at,2026-10-17T18:04:07.028024+03:00,vol_5h_date,2026-10-16,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1299.3,1394.83,-95.5299,-6.84886,2026-10-17T08:33:57.165489+00:00,Yes
-MU,"Micron Technology, Inc. - Common Stock",NASDAQ,878.84,931.24,-52.4,-5.6269,2026-10-17T08:33:57.165489+00:00,Yes
-STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,639.01,690.81,-51.8,-7.49844,2026-10-17T08:33:57.165489+00:00,Yes
-LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ,824.13,869.54,-45.41,-5.2223,2026-10-17T08:33:57.165489+00:00,Yes
-AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ,528.75,562.23,-33.48,-5.95485,2026-10-17T08:33:57.165489+00:00,Yes
-SITM,SiTime Corporation - Common Stock,NASDAQ,472.14,501.59,-29.45,-5.87133,2026-10-17T08:33:57.165489+00:00,Yes
-MDB,"MongoDB, Inc. - Class A Common Stock",NASDAQ,337.57,366.49,-28.92,-7.89107,2026-10-17T08:33:57.165489+00:00,Yes
-VICR,Vicor Corporation - Common Stock,NASDAQ,191.5,219.92,-28.42,-12.9229,2026-10-17T08:33:57.165489+00:00,Yes
-PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,342.0,370.27,-28.27,-7.63497,2026-10-17T08:33:57.165489+00:00,Yes
-SNOW,Snowflake Inc. Common Stock,NYSE,306.84,335.07,-28.23,-8.42511,2026-10-17T08:33:57.165489+00:00,Yes
-META,"Meta Platforms, Inc. - Class A Common Stock",NASDAQ,709.325,736.72,-27.395,-3.7185,2026-10-17T08:33:57.165489+00:00,Yes
-WDC,Western Digital Corporation - Common Stock,NASDAQ,332.0,356.45,-24.45,-6.85931,2026-10-17T08:33:57.165489+00:00,Yes
-CIEN,Ciena Corporation Common Stock,NYSE,332.73,356.52,-23.79,-6.67283,2026-10-17T08:33:57.165489+00:00,Yes
-NBIS,Nebius Group N.V. - Class A Ordinary Shares,NASDAQ,165.47,188.41,-22.94,-12.1756,2026-10-17T08:33:57.165489+00:00,Yes
-STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,424.36,446.25,-21.89,-4.90533,2026-10-17T08:33:57.165489+00:00,Yes
-FN,Fabrinet Ordinary Shares,NYSE,363.51,385.2,-21.69,-5.63084,2026-10-17T08:33:57.165489+00:00,Yes
-DELL,Dell Technologies Inc. Class C Common Stock,NYSE,451.71,473.39,-21.68,-4.57974,2026-10-17T08:33:57.165489+00:00,Yes
-OKTA,"Okta, Inc. - Class A Common Stock",NASDAQ,187.26,208.52,-21.26,-10.1957,2026-10-17T08:33:57.165489+00:00,Yes
-AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,409.29,430.01,-20.72,-4.81849,2026-10-17T08:33:57.165489+00:00,Yes
-NET,"Cloudflare, Inc. Class A Common Stock",NYSE,296.3,316.32,-20.02,-6.32904,2026-10-17T08:33:57.165489+00:00,Yes
+SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1299.3,1394.83,-95.5299,-6.84886,2026-10-17T15:03:57.700954+00:00,Yes
+MU,"Micron Technology, Inc. - Common Stock",NASDAQ,878.84,931.24,-52.4,-5.6269,2026-10-17T15:03:57.700954+00:00,Yes
+STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,639.01,690.81,-51.8,-7.49844,2026-10-17T15:03:57.700954+00:00,Yes
+LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ,824.13,869.54,-45.41,-5.2223,2026-10-17T15:03:57.700954+00:00,Yes
+AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ,528.75,562.23,-33.48,-5.95485,2026-10-17T15:03:57.700954+00:00,Yes
+SITM,SiTime Corporation - Common Stock,NASDAQ,472.14,501.59,-29.45,-5.87133,2026-10-17T15:03:57.700954+00:00,Yes
+MDB,"MongoDB, Inc. - Class A Common Stock",NASDAQ,337.57,366.49,-28.92,-7.89107,2026-10-17T15:03:57.700954+00:00,Yes
+VICR,Vicor Corporation - Common Stock,NASDAQ,191.5,219.92,-28.42,-12.9229,2026-10-17T15:03:57.700954+00:00,Yes
+PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,342.0,370.27,-28.27,-7.63497,2026-10-17T15:03:57.700954+00:00,Yes
+SNOW,Snowflake Inc. Common Stock,NYSE,306.84,335.07,-28.23,-8.42511,2026-10-17T15:03:57.700954+00:00,Yes
+META,"Meta Platforms, Inc. - Class A Common Stock",NASDAQ,709.325,736.72,-27.395,-3.7185,2026-10-17T15:03:57.700954+00:00,Yes
+WDC,Western Digital Corporation - Common Stock,NASDAQ,332.0,356.45,-24.45,-6.85931,2026-10-17T15:03:57.700954+00:00,Yes
+CIEN,Ciena Corporation Common Stock,NYSE,332.73,356.52,-23.79,-6.67283,2026-10-17T15:03:57.700954+00:00,Yes
+NBIS,Nebius Group N.V. - Class A Ordinary Shares,NASDAQ,165.47,188.41,-22.94,-12.1756,2026-10-17T15:03:57.700954+00:00,Yes
+STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,424.36,446.25,-21.89,-4.90533,2026-10-17T15:03:57.700954+00:00,Yes
+FN,Fabrinet Ordinary Shares,NYSE,363.51,385.2,-21.69,-5.63084,2026-10-17T15:03:57.700954+00:00,Yes
+DELL,Dell Technologies Inc. Class C Common Stock,NYSE,451.71,473.39,-21.68,-4.57974,2026-10-17T15:03:57.700954+00:00,Yes
+OKTA,"Okta, Inc. - Class A Common Stock",NASDAQ,187.26,208.52,-21.26,-10.1957,2026-10-17T15:03:57.700954+00:00,Yes
+AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,409.29,430.01,-20.72,-4.81849,2026-10-17T15:03:57.700954+00:00,Yes
+NET,"Cloudflare, Inc. Class A Common Stock",NYSE,296.3,316.32,-20.02,-6.32904,2026-10-17T15:03:57.700954+00:00,Yes
