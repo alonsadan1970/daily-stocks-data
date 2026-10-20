@@ -1,4 +1,4 @@
-generated_at,2026-10-20T22:04:43.544651+03:00,vol_5h_date,2026-10-20,vol_status,OK
+generated_at,2026-10-20T23:00:32.207387+03:00,vol_5h_date,2026-10-20,vol_status,OK
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 LLY,Eli Lilly and Company Common Stock,NYSE,1283.29,1240.34,42.950073,3.4627662,2026-10-20T19:04:33.292949+00:00,Yes
 MSCI,MSCI Inc. Common Stock,NYSE,590.64,563.49,27.150024,4.818191,2026-10-20T19:04:33.292949+00:00,Yes

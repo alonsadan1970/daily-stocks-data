@@ -1,4 +1,4 @@
-generated_at,2026-10-20T22:04:43.544651+03:00,vol_5h_date,2026-10-20,vol_status,OK
+generated_at,2026-10-20T23:00:32.207387+03:00,vol_5h_date,2026-10-20,vol_status,OK
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 BRZE,"Braze, Inc. - Class A Common Stock",NASDAQ,45.41,30.04,15.369999,51.165108,2026-10-20T19:04:33.292949+00:00,Yes
 PMI,"Picard Medical, Inc. Common Stock",NYSE American,11.525,15.45,-3.9250002,-25.404533,2026-10-20T19:04:33.292949+00:00,No
