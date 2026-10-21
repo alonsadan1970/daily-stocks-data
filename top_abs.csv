@@ -1,4 +1,4 @@
-generated_at,2026-10-22T00:29:41.582925+03:00,vol_5h_date,2026-10-21,vol_status,STALE
+generated_at,2026-10-22T01:27:25.544335+03:00,vol_5h_date,2026-10-21,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 META,"Meta Platforms, Inc. - Class A Common Stock",NASDAQ,727.5355,697.52,30.015503,4.3031745,2026-10-21T21:29:30.162094+00:00,Yes
 LRCX,Lam Research Corporation - Common Stock,NASDAQ,248.3,260.81,-12.5099945,-4.796593,2026-10-21T21:29:30.162094+00:00,Yes
