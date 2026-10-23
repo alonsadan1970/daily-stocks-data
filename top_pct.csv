@@ -1,4 +1,4 @@
-generated_at,2026-10-23T00:04:16.722675+03:00,vol_5h_date,2026-10-22,vol_status,STALE
+generated_at,2026-10-23T12:26:05.603870+03:00,vol_5h_date,2026-10-22,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 RNG,"RingCentral, Inc. Class A Common Stock",NYSE,90.3022,79.42,10.882202,13.702093,2026-10-22T21:04:07.048236+00:00,Yes
 SILC,Silicom Ltd - Ordinary Shares,NASDAQ,37.62,42.57,-4.950001,-11.627909,2026-10-22T21:04:07.048236+00:00,Yes

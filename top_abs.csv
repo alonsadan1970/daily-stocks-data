@@ -1,4 +1,4 @@
-generated_at,2026-10-23T00:04:16.722675+03:00,vol_5h_date,2026-10-22,vol_status,STALE
+generated_at,2026-10-23T12:26:05.603870+03:00,vol_5h_date,2026-10-22,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,1198.0,1279.37,-81.369995,-6.3601613,2026-10-22T21:04:07.048236+00:00,Yes
 STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,615.99,642.14,-26.150024,-4.0723243,2026-10-22T21:04:07.048236+00:00,Yes
