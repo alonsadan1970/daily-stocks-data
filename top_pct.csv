@@ -1,22 +1,22 @@
-generated_at,2026-10-23T14:26:38.427247+03:00,vol_5h_date,2026-10-22,vol_status,STALE
+generated_at,2026-10-23T14:34:52.022697+03:00,vol_5h_date,2026-10-22,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-KALU,Kaiser Aluminum Corporation - Common Stock,NASDAQ,114.99,153.95,-38.96,-25.3069,2026-10-23T11:26:02.659044+00:00,Yes
-RNG,"RingCentral, Inc. Class A Common Stock",NYSE,91.1534,79.42,11.753395,14.802764,2026-10-23T11:26:02.659044+00:00,Yes
-NBTX,Nanobiotix S.A. - ADSs,NASDAQ,29.19,25.83,3.36,13.0081,2026-10-23T11:26:02.659044+00:00,No
-AEIS,"Advanced Energy Industries, Inc. - Common Stock",NASDAQ,216.64,247.55,-30.91,-12.4864,2026-10-23T11:26:02.659044+00:00,Yes
-TH,Target Hospitality Corp. - Common Stock,NASDAQ,13.96,15.68,-1.72,-10.9694,2026-10-23T11:26:02.659044+00:00,Yes
-AYA,Aya Gold & Silver Inc. - Common Shares,NASDAQ,23.86,26.59,-2.73,-10.267,2026-10-23T11:26:02.659044+00:00,Yes
-SANM,Sanmina Corporation - Common Stock,NASDAQ,154.47,172.07,-17.6,-10.2284,2026-10-23T11:26:02.659044+00:00,Yes
-LFUS,"Littelfuse, Inc. - Common Stock",NASDAQ,350.28,389.65,-39.37,-10.1039,2026-10-23T11:26:02.659044+00:00,Yes
-BELFB,Bel Fuse Inc. - Class B Common Stock,NASDAQ,199.81,220.55,-20.74,-9.40377,2026-10-23T11:26:02.659044+00:00,Yes
-SITM,SiTime Corporation - Common Stock,NASDAQ,462.72,509.2,-46.48,-9.12805,2026-10-23T11:26:02.659044+00:00,Yes
-PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,47.17,51.85,-4.68,-9.02604,2026-10-23T11:26:02.659044+00:00,Yes
-AIP,"Arteris, Inc.  - Common Stock",NASDAQ,19.09,20.93,-1.84,-8.79121,2026-10-23T11:26:02.659044+00:00,Yes
-ZG,"Zillow Group, Inc. - Class A Common Stock",NASDAQ,35.14,32.41,2.73,8.42332,2026-10-23T11:26:02.659044+00:00,Yes
-ALGM,"Allegro MicroSystems, Inc. - Common Stock",NASDAQ,31.69,34.51,-2.82,-8.17154,2026-10-23T11:26:02.659044+00:00,Yes
-ARIS,Aris Mining Corporation Common Shares,NYSE,15.65,17.03,-1.38,-8.10335,2026-10-23T11:26:02.659044+00:00,Yes
-OCC,Optical Cable Corporation - Common Stock,NASDAQ,12.08,13.13,-1.05,-7.99695,2026-10-23T11:26:02.659044+00:00,Yes
-FA,First Advantage Corporation - Common Stock,NASDAQ,21.22,19.66,1.56,7.93489,2026-10-23T11:26:02.659044+00:00,Yes
-LBRT,Liberty Energy Inc. Class A common stock,NYSE,15.38,16.69,-1.31,-7.84901,2026-10-23T11:26:02.659044+00:00,Yes
-TLN,Talen Energy Corporation - Common Stock,NASDAQ,331.42,359.49,-28.07,-7.80828,2026-10-23T11:26:02.659044+00:00,Yes
-DECK,Deckers Outdoor Corporation Common Stock,NYSE,78.6,85.28,-6.6500015,-7.800588,2026-10-23T11:26:02.659044+00:00,Yes
+KALU,Kaiser Aluminum Corporation - Common Stock,NASDAQ,114.99,153.95,-38.96,-25.3069,2026-10-23T11:34:06.931280+00:00,Yes
+RNG,"RingCentral, Inc. Class A Common Stock",NYSE,91.1534,79.42,11.753395,14.802764,2026-10-23T11:34:06.931280+00:00,Yes
+NBTX,Nanobiotix S.A. - ADSs,NASDAQ,29.19,25.83,3.36,13.0081,2026-10-23T11:34:06.931280+00:00,No
+AEIS,"Advanced Energy Industries, Inc. - Common Stock",NASDAQ,216.64,247.55,-30.91,-12.4864,2026-10-23T11:34:06.931280+00:00,Yes
+TH,Target Hospitality Corp. - Common Stock,NASDAQ,13.96,15.68,-1.72,-10.9694,2026-10-23T11:34:06.931280+00:00,Yes
+AYA,Aya Gold & Silver Inc. - Common Shares,NASDAQ,23.86,26.59,-2.73,-10.267,2026-10-23T11:34:06.931280+00:00,Yes
+SANM,Sanmina Corporation - Common Stock,NASDAQ,154.47,172.07,-17.6,-10.2284,2026-10-23T11:34:06.931280+00:00,Yes
+LFUS,"Littelfuse, Inc. - Common Stock",NASDAQ,350.28,389.65,-39.37,-10.1039,2026-10-23T11:34:06.931280+00:00,Yes
+BELFB,Bel Fuse Inc. - Class B Common Stock,NASDAQ,199.81,220.55,-20.74,-9.40377,2026-10-23T11:34:06.931280+00:00,Yes
+SITM,SiTime Corporation - Common Stock,NASDAQ,462.72,509.2,-46.48,-9.12805,2026-10-23T11:34:06.931280+00:00,Yes
+PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,47.17,51.85,-4.68,-9.02604,2026-10-23T11:34:06.931280+00:00,Yes
+AIP,"Arteris, Inc.  - Common Stock",NASDAQ,19.09,20.93,-1.84,-8.79121,2026-10-23T11:34:06.931280+00:00,Yes
+ZG,"Zillow Group, Inc. - Class A Common Stock",NASDAQ,35.14,32.41,2.73,8.42332,2026-10-23T11:34:06.931280+00:00,Yes
+ALGM,"Allegro MicroSystems, Inc. - Common Stock",NASDAQ,31.69,34.51,-2.82,-8.17154,2026-10-23T11:34:06.931280+00:00,Yes
+ARIS,Aris Mining Corporation Common Shares,NYSE,15.65,17.03,-1.38,-8.10335,2026-10-23T11:34:06.931280+00:00,Yes
+OCC,Optical Cable Corporation - Common Stock,NASDAQ,12.08,13.13,-1.05,-7.99695,2026-10-23T11:34:06.931280+00:00,Yes
+FA,First Advantage Corporation - Common Stock,NASDAQ,21.22,19.66,1.56,7.93489,2026-10-23T11:34:06.931280+00:00,Yes
+FLG,"Flagstar Bank, N.A. Common Stock",NYSE,10.5522,11.44,-0.9027996,-7.8812714,2026-10-23T11:34:06.931280+00:00,Yes
+LBRT,Liberty Energy Inc. Class A common stock,NYSE,15.38,16.69,-1.31,-7.84901,2026-10-23T11:34:06.931280+00:00,Yes
+TLN,Talen Energy Corporation - Common Stock,NASDAQ,331.42,359.49,-28.07,-7.80828,2026-10-23T11:34:06.931280+00:00,Yes
