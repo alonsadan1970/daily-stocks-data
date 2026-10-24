@@ -1,22 +1,22 @@
-generated_at,2026-10-24T12:26:11.433947+03:00,vol_5h_date,2026-10-23,vol_status,STALE
+generated_at,2026-10-24T12:56:11.065952+03:00,vol_5h_date,2026-10-23,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-TANH,Tantech Holdings Ltd. - Class A Common Shares,NASDAQ,17.71,24.83,-7.12,-28.675,2026-10-24T09:26:02.684010+00:00,No
-TNGX,"Tango Therapeutics, Inc. - Common Stock",NASDAQ,23.34,27.93,-4.59,-16.4339,2026-10-24T09:26:02.684010+00:00,Yes
-SCTX,Scribe Therapeutics Inc. - Common Stock,NASDAQ,15.405,17.96,-2.555,-14.2261,2026-10-24T09:26:02.684010+00:00,No
-USCB,"USCB Financial Holdings, Inc.  - Class A Common Stock",NASDAQ,19.99,22.75,-2.76,-12.1319,2026-10-24T09:26:02.684010+00:00,No
-BE,Bloom Energy Corporation Class A Common Stock,NYSE,193.3,217.77,-24.47,-11.2366,2026-10-24T09:26:02.684010+00:00,Yes
-SLM,SLM Corporation - Common Stock,NASDAQ,19.415,21.76,-2.345,-10.7767,2026-10-24T09:26:02.684010+00:00,Yes
-CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,NASDAQ,147.29,162.77,-15.48,-9.51036,2026-10-24T09:26:02.684010+00:00,Yes
-NN,NextNav Inc. - Common stock,NASDAQ,10.08,9.21,0.87,9.44625,2026-10-24T09:26:02.684010+00:00,Yes
-AVBP,"ArriVent BioPharma, Inc. - Common Stock",NASDAQ,21.0,19.2,1.8,9.375,2026-10-24T09:26:02.684010+00:00,Yes
-NTSK,"Netskope, Inc. - Class A Common Stock",NASDAQ,24.28,22.2,2.08,9.36937,2026-10-24T09:26:02.684010+00:00,Yes
-THRM,Gentherm Inc - Common Stock,NASDAQ,28.6,26.15,2.45,9.36903,2026-10-24T09:26:02.684010+00:00,Yes
-VG,"Venture Global, Inc. Class A common stock",NYSE,14.0,12.81,1.19,9.28961,2026-10-24T09:26:02.684010+00:00,Yes
-FLG,"Flagstar Bank, N.A. Common Stock",NYSE,10.38,11.44,-1.06,-9.26573,2026-10-24T09:26:02.684010+00:00,Yes
-FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,1160.86,1279.37,-118.51,-9.26315,2026-10-24T09:26:02.684010+00:00,Yes
-CCI,Crown Castle Inc. Common Stock,NYSE,85.97,78.83,7.14,9.05746,2026-10-24T09:26:02.684010+00:00,Yes
-FSLY,"Fastly, Inc. - Class A Common Stock",NASDAQ,24.41,22.45,1.96,8.73051,2026-10-24T09:26:02.684010+00:00,Yes
-NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ,19.71,21.58,-1.87,-8.66543,2026-10-24T09:26:02.684010+00:00,Yes
-TTMI,"TTM Technologies, Inc. - Common Stock",NASDAQ,80.11,73.89,6.22,8.41792,2026-10-24T09:26:02.684010+00:00,Yes
-CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ,257.57,237.94,19.63,8.24998,2026-10-24T09:26:02.684010+00:00,Yes
-T,AT&T Inc.,NYSE,20.93,22.74,-1.81,-7.95954,2026-10-24T09:26:02.684010+00:00,Yes
+TANH,Tantech Holdings Ltd. - Class A Common Shares,NASDAQ,17.71,24.83,-7.12,-28.675,2026-10-24T09:56:02.683971+00:00,No
+TNGX,"Tango Therapeutics, Inc. - Common Stock",NASDAQ,23.34,27.93,-4.59,-16.4339,2026-10-24T09:56:02.683971+00:00,Yes
+SCTX,Scribe Therapeutics Inc. - Common Stock,NASDAQ,15.405,17.96,-2.555,-14.2261,2026-10-24T09:56:02.683971+00:00,No
+USCB,"USCB Financial Holdings, Inc.  - Class A Common Stock",NASDAQ,19.99,22.75,-2.76,-12.1319,2026-10-24T09:56:02.683971+00:00,No
+BE,Bloom Energy Corporation Class A Common Stock,NYSE,193.3,217.77,-24.47,-11.2366,2026-10-24T09:56:02.683971+00:00,Yes
+SLM,SLM Corporation - Common Stock,NASDAQ,19.415,21.76,-2.345,-10.7767,2026-10-24T09:56:02.683971+00:00,Yes
+CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,NASDAQ,147.29,162.77,-15.48,-9.51036,2026-10-24T09:56:02.683971+00:00,Yes
+NN,NextNav Inc. - Common stock,NASDAQ,10.08,9.21,0.87,9.44625,2026-10-24T09:56:02.683971+00:00,Yes
+AVBP,"ArriVent BioPharma, Inc. - Common Stock",NASDAQ,21.0,19.2,1.8,9.375,2026-10-24T09:56:02.683971+00:00,Yes
+NTSK,"Netskope, Inc. - Class A Common Stock",NASDAQ,24.28,22.2,2.08,9.36937,2026-10-24T09:56:02.683971+00:00,Yes
+THRM,Gentherm Inc - Common Stock,NASDAQ,28.6,26.15,2.45,9.36903,2026-10-24T09:56:02.683971+00:00,Yes
+VG,"Venture Global, Inc. Class A common stock",NYSE,14.0,12.81,1.19,9.28961,2026-10-24T09:56:02.683971+00:00,Yes
+FLG,"Flagstar Bank, N.A. Common Stock",NYSE,10.38,11.44,-1.06,-9.26573,2026-10-24T09:56:02.683971+00:00,Yes
+FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,1160.86,1279.37,-118.51,-9.26315,2026-10-24T09:56:02.683971+00:00,Yes
+CCI,Crown Castle Inc. Common Stock,NYSE,85.97,78.83,7.14,9.05746,2026-10-24T09:56:02.683971+00:00,Yes
+FSLY,"Fastly, Inc. - Class A Common Stock",NASDAQ,24.41,22.45,1.96,8.73051,2026-10-24T09:56:02.683971+00:00,Yes
+NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ,19.71,21.58,-1.87,-8.66543,2026-10-24T09:56:02.683971+00:00,Yes
+TTMI,"TTM Technologies, Inc. - Common Stock",NASDAQ,80.11,73.89,6.22,8.41792,2026-10-24T09:56:02.683971+00:00,Yes
+CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ,257.57,237.94,19.63,8.24998,2026-10-24T09:56:02.683971+00:00,Yes
+T,AT&T Inc.,NYSE,20.93,22.74,-1.81,-7.95954,2026-10-24T09:56:02.683971+00:00,Yes
