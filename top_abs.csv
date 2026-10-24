@@ -1,22 +1,22 @@
-generated_at,2026-10-24T13:26:11.913830+03:00,vol_5h_date,2026-10-23,vol_status,STALE
+generated_at,2026-10-24T13:56:11.745508+03:00,vol_5h_date,2026-10-23,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,1160.86,1279.37,-118.51,-9.26315,2026-10-24T10:26:02.677096+00:00,Yes
-LLY,Eli Lilly and Company Common Stock,NYSE,1273.46,1306.69,-33.23,-2.54307,2026-10-24T10:26:02.677096+00:00,Yes
-MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1140.12,1167.93,-27.8101,-2.38114,2026-10-24T10:26:02.677096+00:00,Yes
-PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,380.55,354.92,25.63,7.22134,2026-10-24T10:26:02.677096+00:00,Yes
-BE,Bloom Energy Corporation Class A Common Stock,NYSE,193.3,217.77,-24.47,-11.2366,2026-10-24T10:26:02.677096+00:00,Yes
-SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1238.03,1260.93,-22.9,-1.81612,2026-10-24T10:26:02.677096+00:00,Yes
-NET,"Cloudflare, Inc. Class A Common Stock",NYSE,325.73,303.61,22.12,7.28567,2026-10-24T10:26:02.677096+00:00,Yes
-MU,"Micron Technology, Inc. - Common Stock",NASDAQ,877.55,856.49,21.06,2.45887,2026-10-24T10:26:02.677096+00:00,Yes
-CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ,257.57,237.94,19.63,8.24998,2026-10-24T10:26:02.677096+00:00,Yes
-STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,355.3,372.83,-17.53,-4.70187,2026-10-24T10:26:02.677096+00:00,Yes
-ZS,"Zscaler, Inc. - Common Stock",NASDAQ,255.15,237.76,17.39,7.3141,2026-10-24T10:26:02.677096+00:00,Yes
-CAT,"Caterpillar, Inc. Common Stock",NYSE,687.0,704.05,-17.05,-2.4217,2026-10-24T10:26:02.677096+00:00,Yes
-GS,"Goldman Sachs Group, Inc. (The) Common Stock",NYSE,875.68,891.3,-15.62,-1.7525,2026-10-24T10:26:02.677096+00:00,Yes
-CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,NASDAQ,147.29,162.77,-15.48,-9.51036,2026-10-24T10:26:02.677096+00:00,Yes
-COST,Costco Wholesale Corporation - Common Stock,NASDAQ,1003.32,1018.21,-14.89,-1.46237,2026-10-24T10:26:02.677096+00:00,Yes
-MELI,"MercadoLibre, Inc. - Common Stock",NASDAQ,1810.15,1824.95,-14.8049,-0.811249,2026-10-24T10:26:02.677096+00:00,Yes
-LMT,Lockheed Martin Corporation Common Stock,NYSE,604.18,589.91,14.27,2.41902,2026-10-24T10:26:02.677096+00:00,Yes
-EME,"EMCOR Group, Inc. Common Stock",NYSE,647.66,660.41,-12.75,-1.93062,2026-10-24T10:26:02.677096+00:00,Yes
-CBOE,"Cboe Global Markets, Inc. Common Stock",Cboe BZX,340.42,327.72,12.7,3.87526,2026-10-24T10:26:02.677096+00:00,Yes
-GEV,GE Vernova Inc. Common Stock,NYSE,815.0,827.42,-12.42,-1.50105,2026-10-24T10:26:02.677096+00:00,Yes
+FIX,"Comfort Systems USA, Inc. Common Stock",NYSE,1160.86,1279.37,-118.51,-9.26315,2026-10-24T10:56:02.732412+00:00,Yes
+LLY,Eli Lilly and Company Common Stock,NYSE,1273.46,1306.69,-33.23,-2.54307,2026-10-24T10:56:02.732412+00:00,Yes
+MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1140.12,1167.93,-27.8101,-2.38114,2026-10-24T10:56:02.732412+00:00,Yes
+PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,380.55,354.92,25.63,7.22134,2026-10-24T10:56:02.732412+00:00,Yes
+BE,Bloom Energy Corporation Class A Common Stock,NYSE,193.3,217.77,-24.47,-11.2366,2026-10-24T10:56:02.732412+00:00,Yes
+SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1238.03,1260.93,-22.9,-1.81612,2026-10-24T10:56:02.732412+00:00,Yes
+NET,"Cloudflare, Inc. Class A Common Stock",NYSE,325.73,303.61,22.12,7.28567,2026-10-24T10:56:02.732412+00:00,Yes
+MU,"Micron Technology, Inc. - Common Stock",NASDAQ,877.55,856.49,21.06,2.45887,2026-10-24T10:56:02.732412+00:00,Yes
+CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ,257.57,237.94,19.63,8.24998,2026-10-24T10:56:02.732412+00:00,Yes
+STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,355.3,372.83,-17.53,-4.70187,2026-10-24T10:56:02.732412+00:00,Yes
+ZS,"Zscaler, Inc. - Common Stock",NASDAQ,255.15,237.76,17.39,7.3141,2026-10-24T10:56:02.732412+00:00,Yes
+CAT,"Caterpillar, Inc. Common Stock",NYSE,687.0,704.05,-17.05,-2.4217,2026-10-24T10:56:02.732412+00:00,Yes
+GS,"Goldman Sachs Group, Inc. (The) Common Stock",NYSE,875.68,891.3,-15.62,-1.7525,2026-10-24T10:56:02.732412+00:00,Yes
+CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,NASDAQ,147.29,162.77,-15.48,-9.51036,2026-10-24T10:56:02.732412+00:00,Yes
+COST,Costco Wholesale Corporation - Common Stock,NASDAQ,1003.32,1018.21,-14.89,-1.46237,2026-10-24T10:56:02.732412+00:00,Yes
+MELI,"MercadoLibre, Inc. - Common Stock",NASDAQ,1810.15,1824.95,-14.8049,-0.811249,2026-10-24T10:56:02.732412+00:00,Yes
+LMT,Lockheed Martin Corporation Common Stock,NYSE,604.18,589.91,14.27,2.41902,2026-10-24T10:56:02.732412+00:00,Yes
+EME,"EMCOR Group, Inc. Common Stock",NYSE,647.66,660.41,-12.75,-1.93062,2026-10-24T10:56:02.732412+00:00,Yes
+CBOE,"Cboe Global Markets, Inc. Common Stock",Cboe BZX,340.42,327.72,12.7,3.87526,2026-10-24T10:56:02.732412+00:00,Yes
+GEV,GE Vernova Inc. Common Stock,NYSE,815.0,827.42,-12.42,-1.50105,2026-10-24T10:56:02.732412+00:00,Yes
