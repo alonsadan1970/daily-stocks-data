@@ -1,4 +1,4 @@
-generated_at,2026-10-27T11:00:01.885828+02:00,vol_5h_date,2026-10-26,vol_status,STALE
+generated_at,2026-10-27T11:30:01.290995+02:00,vol_5h_date,2026-10-26,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 MELI,"MercadoLibre, Inc. - Common Stock",NASDAQ,1668.72,1810.15,-141.43,-7.81317,2026-10-27T05:36:01.431052+00:00,Yes
 FICO,Fair Isaac Corporation Common Stock,NYSE,708.07,815.31,-107.24,-13.1533,2026-10-27T05:36:01.431052+00:00,Yes
