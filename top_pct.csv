@@ -1,4 +1,4 @@
-generated_at,2026-10-27T07:36:11.428297+02:00,vol_5h_date,2026-10-26,vol_status,STALE
+generated_at,2026-10-27T10:30:01.256416+02:00,vol_5h_date,2026-10-26,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 XP,XP Inc. - Class A Common Stock,NASDAQ,15.705,30.41,-14.705,-48.3558,2026-10-27T05:36:01.431052+00:00,Yes
 SGRY,"Surgery Partners, Inc. - Common Stock",NASDAQ,23.25,15.75,7.5,47.619,2026-10-27T05:36:01.431052+00:00,Yes
