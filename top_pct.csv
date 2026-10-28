@@ -1,22 +1,22 @@
-generated_at,2026-10-28T12:30:10.601666+02:00,vol_5h_date,2026-10-27,vol_status,STALE
+generated_at,2026-10-28T12:33:28.512821+02:00,vol_5h_date,2026-10-27,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-MFIC,MidCap Financial Investment Corporation - Closed End Fund,NASDAQ,10.26,8.36,1.9,22.7273,2026-10-28T10:30:01.116386+00:00,Yes
-KNSA,"Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares",NASDAQ,89.2,72.98,16.22,22.2253,2026-10-28T10:30:01.116386+00:00,Yes
-ENPH,"Enphase Energy, Inc. - Common Stock",NASDAQ,24.8,29.76,-4.960001,-16.66667,2026-10-28T10:30:01.116386+00:00,Yes
-CTOS,"Custom Truck One Source, Inc. Common Stock",NYSE,10.51,9.01,1.5,16.6482,2026-10-28T10:30:01.116386+00:00,Yes
-VRT,"Vertiv Holdings, LLC Class A Common Stock",NYSE,242.98,208.56,34.199997,16.380878,2026-10-28T10:30:01.116386+00:00,Yes
-UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ,58.9,51.48,7.420002,14.413368,2026-10-28T10:30:01.116386+00:00,Yes
-FTH,"Faeth Therapeutics, Inc.  - Common Stock",NASDAQ,19.11,16.83,2.28,13.5472,2026-10-28T10:30:01.116386+00:00,No
-ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,NASDAQ,11.23,9.91,1.32,13.3199,2026-10-28T10:30:01.116386+00:00,Yes
-THRM,Gentherm Inc - Common Stock,NASDAQ,31.82,28.59,3.23,11.2977,2026-10-28T10:30:01.116386+00:00,Yes
-EAF,GrafTech International Ltd. Common Stock,NYSE,11.83,10.65,1.18,11.0798,2026-10-28T10:30:01.116386+00:00,Yes
-LOGI,Logitech International S.A. - Registered Shares,NASDAQ,99.46,111.82,-12.360001,-11.053479,2026-10-28T10:30:01.116386+00:00,Yes
-UNF,Unifirst Corporation Common Stock,NYSE,250.4,279.64,-29.24,-10.4563,2026-10-28T10:30:01.116386+00:00,Yes
-DK,"Delek US Holdings, Inc. Common Stock",NYSE,70.3,78.47,-8.17,-10.4116,2026-10-28T10:30:01.116386+00:00,Yes
-EQPT,EquipmentShare.com Inc - Class A Common Stock,NASDAQ,17.71,16.26,1.45,8.91758,2026-10-28T10:30:01.116386+00:00,Yes
-INBX,"Inhibrx Biosciences, Inc. - Common Stock",NASDAQ,95.66,88.61,7.05,7.95622,2026-10-28T10:30:01.116386+00:00,Yes
-SXC,"SunCoke Energy, Inc. Common Stock",NYSE,10.59,9.81,0.78,7.95107,2026-10-28T10:30:01.116386+00:00,Yes
-ITRI,"Itron, Inc. - Common Stock",NASDAQ,94.55,87.73,6.82,7.77385,2026-10-28T10:30:01.116386+00:00,Yes
-HOOD,"Robinhood Markets, Inc. - Class A Common Stock",NASDAQ,87.21,94.56,-7.3499985,-7.7728415,2026-10-28T10:30:01.116386+00:00,Yes
-CVI,CVR Energy Inc. Common Stock,NYSE,57.43,62.02,-4.59,-7.40084,2026-10-28T10:30:01.116386+00:00,Yes
-WSC,WillScot Holdings Corporation - Class A Common Stock,NASDAQ,17.65,16.47,1.18,7.16454,2026-10-28T10:30:01.116386+00:00,Yes
+MFIC,MidCap Financial Investment Corporation - Closed End Fund,NASDAQ,10.26,8.36,1.9,22.7273,2026-10-28T10:33:20.001620+00:00,Yes
+KNSA,"Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares",NASDAQ,89.2,72.98,16.22,22.2253,2026-10-28T10:33:20.001620+00:00,Yes
+VRT,"Vertiv Holdings, LLC Class A Common Stock",NYSE,244.39,208.56,35.61,17.056232,2026-10-28T10:33:20.001620+00:00,Yes
+ENPH,"Enphase Energy, Inc. - Common Stock",NASDAQ,24.7,29.76,-5.0599995,-17.002686,2026-10-28T10:33:20.001620+00:00,Yes
+CTOS,"Custom Truck One Source, Inc. Common Stock",NYSE,10.51,9.01,1.5,16.6482,2026-10-28T10:33:20.001620+00:00,Yes
+UCTT,"Ultra Clean Holdings, Inc. - Common Stock",NASDAQ,58.9,51.48,7.420002,14.413368,2026-10-28T10:33:20.001620+00:00,Yes
+FTH,"Faeth Therapeutics, Inc.  - Common Stock",NASDAQ,19.11,16.83,2.28,13.5472,2026-10-28T10:33:20.001620+00:00,No
+ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,NASDAQ,11.23,9.91,1.32,13.3199,2026-10-28T10:33:20.001620+00:00,Yes
+THRM,Gentherm Inc - Common Stock,NASDAQ,31.82,28.59,3.23,11.2977,2026-10-28T10:33:20.001620+00:00,Yes
+EAF,GrafTech International Ltd. Common Stock,NYSE,11.83,10.65,1.18,11.0798,2026-10-28T10:33:20.001620+00:00,Yes
+LOGI,Logitech International S.A. - Registered Shares,NASDAQ,99.46,111.82,-12.360001,-11.053479,2026-10-28T10:33:20.001620+00:00,Yes
+UNF,Unifirst Corporation Common Stock,NYSE,250.4,279.64,-29.24,-10.4563,2026-10-28T10:33:20.001620+00:00,Yes
+DK,"Delek US Holdings, Inc. Common Stock",NYSE,70.3,78.47,-8.17,-10.4116,2026-10-28T10:33:20.001620+00:00,Yes
+EQPT,EquipmentShare.com Inc - Class A Common Stock,NASDAQ,17.71,16.26,1.45,8.91758,2026-10-28T10:33:20.001620+00:00,Yes
+INBX,"Inhibrx Biosciences, Inc. - Common Stock",NASDAQ,95.66,88.61,7.05,7.95622,2026-10-28T10:33:20.001620+00:00,Yes
+SXC,"SunCoke Energy, Inc. Common Stock",NYSE,10.59,9.81,0.78,7.95107,2026-10-28T10:33:20.001620+00:00,Yes
+HOOD,"Robinhood Markets, Inc. - Class A Common Stock",NASDAQ,87.05,94.56,-7.5099945,-7.942042,2026-10-28T10:33:20.001620+00:00,Yes
+ITRI,"Itron, Inc. - Common Stock",NASDAQ,94.55,87.73,6.82,7.77385,2026-10-28T10:33:20.001620+00:00,Yes
+CGEM,"Cullinan Therapeutics, Inc. - Common Stock",NASDAQ,15.95,14.84,1.1099997,7.479782,2026-10-28T10:33:20.001620+00:00,Yes
+CVI,CVR Energy Inc. Common Stock,NYSE,57.43,62.02,-4.59,-7.40084,2026-10-28T10:33:20.001620+00:00,Yes
