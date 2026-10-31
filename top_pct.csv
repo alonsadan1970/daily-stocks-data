@@ -1,22 +1,22 @@
-generated_at,2026-10-31T17:29:15.079643+02:00,vol_5h_date,2026-10-30,vol_status,STALE
+generated_at,2026-10-31T17:59:14.803835+02:00,vol_5h_date,2026-10-30,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-GDYN,"Grid Dynamics Holdings, Inc. - Class A Common Stock",NASDAQ,13.36,9.49,3.87,40.7798,2026-10-31T15:29:05.741785+00:00,Yes
-RDDT,"Reddit, Inc. Class A Common Stock",NYSE,91.73,129.6,-37.87,-29.2207,2026-10-31T15:29:05.741785+00:00,Yes
-INTC,Intel Corporation - Common Stock,NASDAQ,65.76,92.07,-26.31,-28.5761,2026-10-31T15:29:05.741785+00:00,Yes
-OSPN,OneSpan Inc. - Common Stock,NASDAQ,25.66,20.15,5.51,27.3449,2026-10-31T15:29:05.741785+00:00,Yes
-CDNA,"CareDx, Inc. - Common Stock",NASDAQ,87.41,71.52,15.89,22.2176,2026-10-31T15:29:05.741785+00:00,Yes
-ILMN,"Illumina, Inc. - Common Stock",NASDAQ,235.99,290.06,-54.07,-18.641,2026-10-31T15:29:05.741785+00:00,Yes
-RBLX,Roblox Corporation Class A Common Stock,NYSE,42.99,52.46,-9.47,-18.0518,2026-10-31T15:29:05.741785+00:00,Yes
-AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",NASDAQ,30.55,37.23,-6.68,-17.9425,2026-10-31T15:29:05.741785+00:00,Yes
-BFAM,Bright Horizons Family Solutions Inc. Common Stock,NYSE,54.98,66.98,-12.0,-17.9158,2026-10-31T15:29:05.741785+00:00,Yes
-CVEO,Civeo Corporation (Canada) Common Shares,NYSE,35.97,30.55,5.42,17.7414,2026-10-31T15:29:05.741785+00:00,Yes
-KPLT,"Katapult Holdings, Inc. - Common Stock",NASDAQ,10.38,12.52,-2.14,-17.0927,2026-10-31T15:29:05.741785+00:00,No
-CPRI,Capri Holdings Limited Ordinary Shares,NYSE,18.68,16.06,2.62,16.3138,2026-10-31T15:29:05.741785+00:00,Yes
-BLSH,Bullish Ordinary Shares,NYSE,23.9,28.47,-4.57,-16.052,2026-10-31T15:29:05.741785+00:00,Yes
-TWLO,Twilio Inc. Class A Common Stock,NYSE,205.03,241.9,-36.87,-15.2418,2026-10-31T15:29:05.741785+00:00,Yes
-FDXF,"FedEx Freight Holding Company, Inc. Common Stock",NYSE,126.04,109.69,16.35,14.9056,2026-10-31T15:29:05.741785+00:00,Yes
-MLYS,"Mineralys Therapeutics, Inc. - Common Stock",NASDAQ,18.18,21.24,-3.06,-14.4068,2026-10-31T15:29:05.741785+00:00,Yes
-MVBF,MVB Financial Corp. - Common Stock,NASDAQ,25.47,29.74,-4.2700005,-14.357769,2026-10-31T15:29:05.741785+00:00,Yes
-TXG,"10x Genomics, Inc. - Common Stock",NASDAQ,70.11,81.55,-11.44,-14.0282,2026-10-31T15:29:05.741785+00:00,Yes
-SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1150.89,1330.05,-179.16,-13.4702,2026-10-31T15:29:05.741785+00:00,Yes
-SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",NASDAQ,22.68,26.17,-3.49,-13.3359,2026-10-31T15:29:05.741785+00:00,Yes
+GDYN,"Grid Dynamics Holdings, Inc. - Class A Common Stock",NASDAQ,13.36,9.49,3.87,40.7798,2026-10-31T15:59:05.562317+00:00,Yes
+RDDT,"Reddit, Inc. Class A Common Stock",NYSE,91.73,129.6,-37.87,-29.2207,2026-10-31T15:59:05.562317+00:00,Yes
+INTC,Intel Corporation - Common Stock,NASDAQ,65.76,92.07,-26.31,-28.5761,2026-10-31T15:59:05.562317+00:00,Yes
+OSPN,OneSpan Inc. - Common Stock,NASDAQ,25.66,20.15,5.51,27.3449,2026-10-31T15:59:05.562317+00:00,Yes
+CDNA,"CareDx, Inc. - Common Stock",NASDAQ,87.41,71.52,15.89,22.2176,2026-10-31T15:59:05.562317+00:00,Yes
+ILMN,"Illumina, Inc. - Common Stock",NASDAQ,235.99,290.06,-54.07,-18.641,2026-10-31T15:59:05.562317+00:00,Yes
+RBLX,Roblox Corporation Class A Common Stock,NYSE,42.99,52.46,-9.47,-18.0518,2026-10-31T15:59:05.562317+00:00,Yes
+AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",NASDAQ,30.55,37.23,-6.68,-17.9425,2026-10-31T15:59:05.562317+00:00,Yes
+BFAM,Bright Horizons Family Solutions Inc. Common Stock,NYSE,54.98,66.98,-12.0,-17.9158,2026-10-31T15:59:05.562317+00:00,Yes
+CVEO,Civeo Corporation (Canada) Common Shares,NYSE,35.97,30.55,5.42,17.7414,2026-10-31T15:59:05.562317+00:00,Yes
+KPLT,"Katapult Holdings, Inc. - Common Stock",NASDAQ,10.38,12.52,-2.14,-17.0927,2026-10-31T15:59:05.562317+00:00,No
+CPRI,Capri Holdings Limited Ordinary Shares,NYSE,18.68,16.06,2.62,16.3138,2026-10-31T15:59:05.562317+00:00,Yes
+BLSH,Bullish Ordinary Shares,NYSE,23.9,28.47,-4.57,-16.052,2026-10-31T15:59:05.562317+00:00,Yes
+TWLO,Twilio Inc. Class A Common Stock,NYSE,205.03,241.9,-36.87,-15.2418,2026-10-31T15:59:05.562317+00:00,Yes
+FDXF,"FedEx Freight Holding Company, Inc. Common Stock",NYSE,126.04,109.69,16.35,14.9056,2026-10-31T15:59:05.562317+00:00,Yes
+MLYS,"Mineralys Therapeutics, Inc. - Common Stock",NASDAQ,18.18,21.24,-3.06,-14.4068,2026-10-31T15:59:05.562317+00:00,Yes
+MVBF,MVB Financial Corp. - Common Stock,NASDAQ,25.47,29.74,-4.2700005,-14.357769,2026-10-31T15:59:05.562317+00:00,Yes
+TXG,"10x Genomics, Inc. - Common Stock",NASDAQ,70.11,81.55,-11.44,-14.0282,2026-10-31T15:59:05.562317+00:00,Yes
+SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1150.89,1330.05,-179.16,-13.4702,2026-10-31T15:59:05.562317+00:00,Yes
+SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",NASDAQ,22.68,26.17,-3.49,-13.3359,2026-10-31T15:59:05.562317+00:00,Yes
