@@ -1,22 +1,22 @@
-generated_at,2026-11-04T10:30:11.395968+02:00,vol_5h_date,2026-11-03,vol_status,STALE
+generated_at,2026-11-04T11:00:12.280474+02:00,vol_5h_date,2026-11-03,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-RDAC,Rising Dragon Acquisition Corp. - Ordinary Shares,NASDAQ,11.3,5.1,6.2,121.569,2026-11-04T08:30:00.909369+00:00,No
-AEHR,Aehr Test Systems - Common Stock,NASDAQ,65.11,51.47,13.64,26.5009,2026-11-04T08:30:00.909369+00:00,Yes
-GPK,Graphic Packaging Holding Company,NYSE,11.31,9.33,1.98,21.2219,2026-11-04T08:30:00.909369+00:00,Yes
-IBTA,"Ibotta, Inc. Class A Common Stock",NYSE,60.35,50.07,10.28,20.5313,2026-11-04T08:30:00.909369+00:00,Yes
-RIOT,"Riot Platforms, Inc. - Common Stock",NASDAQ,14.02,11.84,2.18,18.4122,2026-11-04T08:30:00.909369+00:00,Yes
-BVS,Bioventus Inc. - Class A Common Stock,NASDAQ,10.945,13.15,-2.205,-16.7681,2026-11-04T08:30:00.909369+00:00,Yes
-XMTR,"Xometry, Inc. - Class A Common Stock",NASDAQ,111.29,95.49,15.8,16.5462,2026-11-04T08:30:00.909369+00:00,Yes
-BETA,"Beta Technologies, Inc. Class A Common Stock",NYSE,23.64,20.38,3.26,15.9961,2026-11-04T08:30:00.909369+00:00,Yes
-HUT,Hut 8 Corp. - Common Stock,NASDAQ,63.75,55.005,8.745,15.8986,2026-11-04T08:30:00.909369+00:00,Yes
-FN,Fabrinet Ordinary Shares,NYSE,363.33,314.7,48.63,15.4528,2026-11-04T08:30:00.909369+00:00,Yes
-GLXY,Galaxy Digital Inc. - Class A common stock,NASDAQ,16.83,14.59,2.24,15.353,2026-11-04T08:30:00.909369+00:00,Yes
-CMCO,Columbus McKinnon Corporation - Common Stock,NASDAQ,18.15,15.76,2.39,15.165,2026-11-04T08:30:00.909369+00:00,Yes
-CCXI,Churchill Capital Corp XI - Class A Ordinary Shares,NASDAQ,10.69,9.29,1.4,15.07,2026-11-04T08:30:00.909369+00:00,No
-DT,"Dynatrace, Inc. Common Stock",NYSE,47.03,55.13,-8.1,-14.6925,2026-11-04T08:30:00.909369+00:00,Yes
-SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",NASDAQ,23.79,20.75,3.04,14.6506,2026-11-04T08:30:00.909369+00:00,Yes
-WULF,TeraWulf Inc. - Common Stock,NASDAQ,12.53,10.94,1.59,14.5338,2026-11-04T08:30:00.909369+00:00,Yes
-CORZ,"Core Scientific, Inc. - Common Stock",NASDAQ,14.24,12.505,1.735,13.8744,2026-11-04T08:30:00.909369+00:00,Yes
-ADEA,Adeia Inc.  - Common Stock,NASDAQ,17.86,20.67,-2.81,-13.5946,2026-11-04T08:30:00.909369+00:00,Yes
-NBIX,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ,164.85,145.35,19.5,13.4159,2026-11-04T08:30:00.909369+00:00,Yes
-WYFI,"WhiteFiber, Inc. - Ordinary Shares",NASDAQ,10.49,9.26,1.23,13.2829,2026-11-04T08:30:00.909369+00:00,No
+RDAC,Rising Dragon Acquisition Corp. - Ordinary Shares,NASDAQ,11.3,5.1,6.2,121.569,2026-11-04T09:00:01.405256+00:00,No
+AEHR,Aehr Test Systems - Common Stock,NASDAQ,65.11,51.47,13.64,26.5009,2026-11-04T09:00:01.405256+00:00,Yes
+GPK,Graphic Packaging Holding Company,NYSE,11.31,9.33,1.98,21.2219,2026-11-04T09:00:01.405256+00:00,Yes
+IBTA,"Ibotta, Inc. Class A Common Stock",NYSE,60.35,50.07,10.28,20.5313,2026-11-04T09:00:01.405256+00:00,Yes
+BVS,Bioventus Inc. - Class A Common Stock,NASDAQ,10.945,13.15,-2.205,-16.7681,2026-11-04T09:00:01.405256+00:00,Yes
+XMTR,"Xometry, Inc. - Class A Common Stock",NASDAQ,111.29,95.49,15.8,16.5462,2026-11-04T09:00:01.405256+00:00,Yes
+BETA,"Beta Technologies, Inc. Class A Common Stock",NYSE,23.64,20.38,3.26,15.9961,2026-11-04T09:00:01.405256+00:00,Yes
+HUT,Hut 8 Corp. - Common Stock,NASDAQ,63.75,55.005,8.745,15.8986,2026-11-04T09:00:01.405256+00:00,Yes
+FN,Fabrinet Ordinary Shares,NYSE,363.33,314.7,48.63,15.4528,2026-11-04T09:00:01.405256+00:00,Yes
+GLXY,Galaxy Digital Inc. - Class A common stock,NASDAQ,16.83,14.59,2.24,15.353,2026-11-04T09:00:01.405256+00:00,Yes
+CMCO,Columbus McKinnon Corporation - Common Stock,NASDAQ,18.15,15.76,2.39,15.165,2026-11-04T09:00:01.405256+00:00,Yes
+CCXI,Churchill Capital Corp XI - Class A Ordinary Shares,NASDAQ,10.69,9.29,1.4,15.07,2026-11-04T09:00:01.405256+00:00,No
+DT,"Dynatrace, Inc. Common Stock",NYSE,47.03,55.13,-8.1,-14.6925,2026-11-04T09:00:01.405256+00:00,Yes
+SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",NASDAQ,23.79,20.75,3.04,14.6506,2026-11-04T09:00:01.405256+00:00,Yes
+CORZ,"Core Scientific, Inc. - Common Stock",NASDAQ,14.24,12.505,1.735,13.8744,2026-11-04T09:00:01.405256+00:00,Yes
+ADEA,Adeia Inc.  - Common Stock,NASDAQ,17.86,20.67,-2.81,-13.5946,2026-11-04T09:00:01.405256+00:00,Yes
+NBIX,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ,164.85,145.35,19.5,13.4159,2026-11-04T09:00:01.405256+00:00,Yes
+CVI,CVR Energy Inc. Common Stock,NYSE,48.6,55.92,-7.32,-13.0901,2026-11-04T09:00:01.405256+00:00,Yes
+PENG,"Penguin Solutions, Inc. - Common Stock",NASDAQ,53.19,47.5,5.69,11.9789,2026-11-04T09:00:01.405256+00:00,Yes
+CNL,Collective Mining Ltd. - Common Stock,NASDAQ,11.44,10.22,1.22,11.9374,2026-11-04T09:00:01.405256+00:00,No

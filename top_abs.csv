@@ -1,22 +1,22 @@
-generated_at,2026-11-04T10:30:11.395968+02:00,vol_5h_date,2026-11-03,vol_status,STALE
+generated_at,2026-11-04T11:00:12.280474+02:00,vol_5h_date,2026-11-03,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1328.3,1243.95,84.3501,6.78083,2026-11-04T08:30:00.909369+00:00,Yes
-GEV,GE Vernova Inc. Common Stock,NYSE,918.2,862.25,55.95,6.48884,2026-11-04T08:30:00.909369+00:00,Yes
-SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,1126.52,1075.08,51.4401,4.78477,2026-11-04T08:30:00.909369+00:00,Yes
-FN,Fabrinet Ordinary Shares,NYSE,363.33,314.7,48.63,15.4528,2026-11-04T08:30:00.909369+00:00,Yes
-PLPC,Preformed Line Products Company - Common Stock,NASDAQ,311.51,278.68,32.83,11.7805,2026-11-04T08:30:00.909369+00:00,Yes
-ZBRA,Zebra Technologies Corporation - Class A Common Stock,NASDAQ,329.5,361.13,-31.63,-8.75862,2026-11-04T08:30:00.909369+00:00,Yes
-SITM,SiTime Corporation - Common Stock,NASDAQ,444.88,417.9,26.98,6.45609,2026-11-04T08:30:00.909369+00:00,Yes
-ASML,ASML Holding N.V. - New York Registry Shares,NASDAQ,1552.14,1526.14,26.0,1.70364,2026-11-04T08:30:00.909369+00:00,Yes
-STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,361.145,335.45,25.695,7.65985,2026-11-04T08:30:00.909369+00:00,Yes
-ETN,"Eaton Corporation, PLC Ordinary Shares",NYSE,391.7,366.07,25.63,7.00139,2026-11-04T08:30:00.909369+00:00,Yes
-VRTX,Vertex Pharmaceuticals Incorporated - Common Stock,NASDAQ,530.76,553.15,-22.39,-4.04773,2026-11-04T08:30:00.909369+00:00,Yes
-MU,"Micron Technology, Inc. - Common Stock",NASDAQ,855.1,833.59,21.5099,2.5804,2026-11-04T08:30:00.909369+00:00,Yes
-COST,Costco Wholesale Corporation - Common Stock,NASDAQ,1019.26,1040.55,-21.29,-2.04604,2026-11-04T08:30:00.909369+00:00,Yes
-AEIS,"Advanced Energy Industries, Inc. - Common Stock",NASDAQ,238.1,217.19,20.91,9.62752,2026-11-04T08:30:00.909369+00:00,Yes
-NBIX,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ,164.85,145.35,19.5,13.4159,2026-11-04T08:30:00.909369+00:00,Yes
-BE,Bloom Energy Corporation Class A Common Stock,NYSE,214.01,196.25,17.76,9.04968,2026-11-04T08:30:00.909369+00:00,Yes
-AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ,483.9,466.84,17.06,3.65436,2026-11-04T08:30:00.909369+00:00,Yes
-APP,Applovin Corporation - Class A Common Stock,NASDAQ,245.51,228.85,16.66,7.27987,2026-11-04T08:30:00.909369+00:00,Yes
-WCC,"WESCO International, Inc. Common Stock",NYSE,351.61,335.56,16.05,4.78305,2026-11-04T08:30:00.909369+00:00,Yes
-XMTR,"Xometry, Inc. - Class A Common Stock",NASDAQ,111.29,95.49,15.8,16.5462,2026-11-04T08:30:00.909369+00:00,Yes
+MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1328.3,1243.95,84.3501,6.78083,2026-11-04T09:00:01.405256+00:00,Yes
+GEV,GE Vernova Inc. Common Stock,NYSE,918.2,862.25,55.95,6.48884,2026-11-04T09:00:01.405256+00:00,Yes
+FN,Fabrinet Ordinary Shares,NYSE,363.33,314.7,48.63,15.4528,2026-11-04T09:00:01.405256+00:00,Yes
+AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ,517.83,483.9,33.930023,7.0117846,2026-11-04T09:00:01.405256+00:00,Yes
+PLPC,Preformed Line Products Company - Common Stock,NASDAQ,311.51,278.68,32.83,11.7805,2026-11-04T09:00:01.405256+00:00,Yes
+SITM,SiTime Corporation - Common Stock,NASDAQ,444.88,417.9,26.98,6.45609,2026-11-04T09:00:01.405256+00:00,Yes
+STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,361.145,335.45,25.695,7.65985,2026-11-04T09:00:01.405256+00:00,Yes
+ETN,"Eaton Corporation, PLC Ordinary Shares",NYSE,391.7,366.07,25.63,7.00139,2026-11-04T09:00:01.405256+00:00,Yes
+VRTX,Vertex Pharmaceuticals Incorporated - Common Stock,NASDAQ,530.76,553.15,-22.39,-4.04773,2026-11-04T09:00:01.405256+00:00,Yes
+COST,Costco Wholesale Corporation - Common Stock,NASDAQ,1019.26,1040.55,-21.29,-2.04604,2026-11-04T09:00:01.405256+00:00,Yes
+AEIS,"Advanced Energy Industries, Inc. - Common Stock",NASDAQ,238.1,217.19,20.91,9.62752,2026-11-04T09:00:01.405256+00:00,Yes
+LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ,700.0,680.16,19.840027,2.9169648,2026-11-04T09:00:01.405256+00:00,Yes
+NBIX,"Neurocrine Biosciences, Inc. - Common Stock",NASDAQ,164.85,145.35,19.5,13.4159,2026-11-04T09:00:01.405256+00:00,Yes
+BE,Bloom Energy Corporation Class A Common Stock,NYSE,214.01,196.25,17.76,9.04968,2026-11-04T09:00:01.405256+00:00,Yes
+APP,Applovin Corporation - Class A Common Stock,NASDAQ,245.51,228.85,16.66,7.27987,2026-11-04T09:00:01.405256+00:00,Yes
+WCC,"WESCO International, Inc. Common Stock",NYSE,351.61,335.56,16.05,4.78305,2026-11-04T09:00:01.405256+00:00,Yes
+XMTR,"Xometry, Inc. - Class A Common Stock",NASDAQ,111.29,95.49,15.8,16.5462,2026-11-04T09:00:01.405256+00:00,Yes
+CIEN,Ciena Corporation Common Stock,NYSE,300.08,284.34,15.74,5.53562,2026-11-04T09:00:01.405256+00:00,Yes
+TMO,Thermo Fisher Scientific Inc Common Stock,NYSE,698.34,682.65,15.69,2.2984,2026-11-04T09:00:01.405256+00:00,Yes
+DELL,Dell Technologies Inc. Class C Common Stock,NYSE,408.4,392.78,15.62,3.97678,2026-11-04T09:00:01.405256+00:00,Yes
