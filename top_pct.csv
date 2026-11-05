@@ -1,22 +1,22 @@
-generated_at,2026-11-05T10:30:11.405067+02:00,vol_5h_date,2026-11-04,vol_status,STALE
+generated_at,2026-11-05T11:00:12.454294+02:00,vol_5h_date,2026-11-04,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-OMH,Ohmyhome Limited - Class A Ordinary Shares,NASDAQ,15.55,2.911,12.639,434.181,2026-11-05T08:30:00.431283+00:00,No
-NRIX,"Nurix Therapeutics, Inc. - Common stock",NASDAQ,15.95,25.82,-9.87,-38.2262,2026-11-05T08:30:00.431283+00:00,Yes
-TREE,"LendingTree, Inc. - Common Stock",NASDAQ,38.35,28.87,9.48,32.8368,2026-11-05T08:30:00.431283+00:00,Yes
-KD,"Kyndryl Holdings, Inc. Common Stock",NYSE,16.84,12.94,3.9,30.1391,2026-11-05T08:30:00.431283+00:00,Yes
-DOX,Amdocs Limited - Ordinary Shares,NASDAQ,43.66,62.43,-18.77,-30.0657,2026-11-05T08:30:00.431283+00:00,Yes
-ECG,"Everus Construction Group, Inc. Common Stock",NYSE,79.71,112.73,-33.02,-29.2912,2026-11-05T08:30:00.431283+00:00,Yes
-SNDX,"Syndax Pharmaceuticals, Inc. - Common Stock",NASDAQ,10.45,14.29,-3.84,-26.8719,2026-11-05T08:30:00.431283+00:00,Yes
-DFH,"Dream Finders Homes, Inc. Class A Common Stock",NYSE,12.81,10.1,2.71,26.8317,2026-11-05T08:30:00.431283+00:00,Yes
-DUOL,"Duolingo, Inc. - Class A Common Stock",NASDAQ,161.27,128.0,33.27,25.9922,2026-11-05T08:30:00.431283+00:00,Yes
-ALIT,"Alight, Inc. Class A Common Stock",NYSE,12.75,10.12,2.63,25.9881,2026-11-05T08:30:00.431283+00:00,Yes
-HELE,Helen of Troy Limited - Common Stock,NASDAQ,37.04,29.54,7.5,25.3893,2026-11-05T08:30:00.431283+00:00,Yes
-YOU,"Clear Secure, Inc. Class A Common Stock",NYSE,59.08,47.76,11.32,23.7019,2026-11-05T08:30:00.431283+00:00,Yes
-FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,29.76,38.99,-9.23,-23.6727,2026-11-05T08:30:00.431283+00:00,Yes
-HUT,Hut 8 Corp. - Common Stock,NASDAQ,48.94,63.75,-14.81,-23.2314,2026-11-05T08:30:00.431283+00:00,Yes
-TH,Target Hospitality Corp. - Common Stock,NASDAQ,11.29,14.49,-3.2,-22.0842,2026-11-05T08:30:00.431283+00:00,Yes
-STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,283.66,361.145,-77.485,-21.4554,2026-11-05T08:30:00.431283+00:00,Yes
-MOD,Modine Manufacturing Company Common Stock,NYSE,98.56,125.45,-26.89,-21.4348,2026-11-05T08:30:00.431283+00:00,Yes
-CGEM,"Cullinan Therapeutics, Inc. - Common Stock",NASDAQ,12.49,15.75,-3.26,-20.6984,2026-11-05T08:30:00.431283+00:00,Yes
-PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,39.67,49.43,-9.76,-19.7451,2026-11-05T08:30:00.431283+00:00,Yes
-INIO,INNIO N.V. - Ordinary Shares,NASDAQ,14.74,18.31,-3.57,-19.4975,2026-11-05T08:30:00.431283+00:00,Yes
+TREE,"LendingTree, Inc. - Common Stock",NASDAQ,38.35,28.87,9.48,32.8368,2026-11-05T09:00:01.474984+00:00,Yes
+KD,"Kyndryl Holdings, Inc. Common Stock",NYSE,16.84,12.94,3.9,30.1391,2026-11-05T09:00:01.474984+00:00,Yes
+DOX,Amdocs Limited - Ordinary Shares,NASDAQ,43.66,62.43,-18.77,-30.0657,2026-11-05T09:00:01.474984+00:00,Yes
+ECG,"Everus Construction Group, Inc. Common Stock",NYSE,79.71,112.73,-33.02,-29.2912,2026-11-05T09:00:01.474984+00:00,Yes
+SNDX,"Syndax Pharmaceuticals, Inc. - Common Stock",NASDAQ,10.45,14.29,-3.84,-26.8719,2026-11-05T09:00:01.474984+00:00,Yes
+DFH,"Dream Finders Homes, Inc. Class A Common Stock",NYSE,12.81,10.1,2.71,26.8317,2026-11-05T09:00:01.474984+00:00,Yes
+DUOL,"Duolingo, Inc. - Class A Common Stock",NASDAQ,161.27,128.0,33.27,25.9922,2026-11-05T09:00:01.474984+00:00,Yes
+ALIT,"Alight, Inc. Class A Common Stock",NYSE,12.75,10.12,2.63,25.9881,2026-11-05T09:00:01.474984+00:00,Yes
+HELE,Helen of Troy Limited - Common Stock,NASDAQ,37.04,29.54,7.5,25.3893,2026-11-05T09:00:01.474984+00:00,Yes
+YOU,"Clear Secure, Inc. Class A Common Stock",NYSE,59.08,47.76,11.32,23.7019,2026-11-05T09:00:01.474984+00:00,Yes
+FIS,"Fidelity National Information Services, Inc. Common Stock",NYSE,29.76,38.99,-9.23,-23.6727,2026-11-05T09:00:01.474984+00:00,Yes
+TH,Target Hospitality Corp. - Common Stock,NASDAQ,11.29,14.49,-3.2,-22.0842,2026-11-05T09:00:01.474984+00:00,Yes
+STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,283.66,361.145,-77.485,-21.4554,2026-11-05T09:00:01.474984+00:00,Yes
+CGEM,"Cullinan Therapeutics, Inc. - Common Stock",NASDAQ,12.49,15.75,-3.26,-20.6984,2026-11-05T09:00:01.474984+00:00,Yes
+APP,Applovin Corporation - Class A Common Stock,NASDAQ,327.17,271.75,55.420013,20.39375,2026-11-05T09:00:01.474984+00:00,Yes
+PSIX,"Power Solutions International, Inc. - Common Stock",NASDAQ,39.67,49.43,-9.76,-19.7451,2026-11-05T09:00:01.474984+00:00,Yes
+INIO,INNIO N.V. - Ordinary Shares,NASDAQ,14.74,18.31,-3.57,-19.4975,2026-11-05T09:00:01.474984+00:00,Yes
+LIVN,LivaNova PLC - Ordinary Shares,NASDAQ,94.19,79.9,14.29,17.8849,2026-11-05T09:00:01.474984+00:00,Yes
+BTU,Peabody Energy Corporation Common Stock,NYSE,17.02,20.66,-3.64,-17.6186,2026-11-05T09:00:01.474984+00:00,Yes
+FPS,"Forgent Power Solutions, Inc. Class A Common Stock",NYSE,22.44,27.14,-4.7,-17.3176,2026-11-05T09:00:01.474984+00:00,Yes
