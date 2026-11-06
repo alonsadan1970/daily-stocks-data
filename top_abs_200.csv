@@ -1,22 +1,22 @@
-generated_at,2026-11-06T10:30:10.081346+02:00,vol_5h_date,2026-11-05,vol_status,STALE
+generated_at,2026-11-06T11:00:10.168226+02:00,vol_5h_date,2026-11-05,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,806.43,1037.4,-230.97,-22.2643,2026-11-06T08:30:00.380838+00:00,Yes
-MELI,"MercadoLibre, Inc. - Common Stock",NASDAQ,1530.28,1739.88,-209.6,-12.0468,2026-11-06T08:30:00.380838+00:00,Yes
-ASML,ASML Holding N.V. - New York Registry Shares,NASDAQ,1356.65,1496.3,-139.65,-9.33302,2026-11-06T08:30:00.380838+00:00,Yes
-MU,"Micron Technology, Inc. - Common Stock",NASDAQ,656.39,795.23,-138.84,-17.4591,2026-11-06T08:30:00.380838+00:00,Yes
-LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ,509.7,626.75,-117.05,-18.6757,2026-11-06T08:30:00.380838+00:00,Yes
-STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),NASDAQ,466.53,557.06,-90.53,-16.2514,2026-11-06T08:30:00.380838+00:00,Yes
-AMD,"Advanced Micro Devices, Inc. - Common Stock",NASDAQ,404.4,488.78,-84.38,-17.2634,2026-11-06T08:30:00.380838+00:00,Yes
-APP,Applovin Corporation - Class A Common Stock,NASDAQ,356.1,271.75,84.35,31.0396,2026-11-06T08:30:00.380838+00:00,Yes
-GEV,GE Vernova Inc. Common Stock,NYSE,770.51,832.83,-62.32,-7.48292,2026-11-06T08:30:00.380838+00:00,Yes
-GS,"Goldman Sachs Group, Inc. (The) Common Stock",NYSE,868.95,928.0,-59.05,-6.36315,2026-11-06T08:30:00.380838+00:00,Yes
-WDC,Western Digital Corporation - Common Stock,NASDAQ,267.63,323.83,-56.2,-17.3548,2026-11-06T08:30:00.380838+00:00,Yes
-DELL,Dell Technologies Inc. Class C Common Stock,NYSE,316.91,372.36,-55.45,-14.8915,2026-11-06T08:30:00.380838+00:00,Yes
-LLY,Eli Lilly and Company Common Stock,NYSE,1364.73,1417.99,-53.26,-3.75602,2026-11-06T08:30:00.380838+00:00,Yes
-AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,319.25,369.4,-50.15,-13.5761,2026-11-06T08:30:00.380838+00:00,Yes
-FN,Fabrinet Ordinary Shares,NYSE,292.97,341.64,-48.67,-14.246,2026-11-06T08:30:00.380838+00:00,Yes
-SITM,SiTime Corporation - Common Stock,NASDAQ,355.0,403.27,-48.27,-11.9696,2026-11-06T08:30:00.380838+00:00,Yes
-ADI,"Analog Devices, Inc. - Common Stock",NASDAQ,361.01,406.24,-45.23,-11.1338,2026-11-06T08:30:00.380838+00:00,Yes
-EXPE,"Expedia Group, Inc. - Common Stock",NASDAQ,272.48,315.88,-43.4,-13.7394,2026-11-06T08:30:00.380838+00:00,Yes
-TSM,Taiwan Semiconductor Manufacturing Company Ltd.,NYSE,353.1,395.75,-42.65,-10.777,2026-11-06T08:30:00.380838+00:00,Yes
-BH,Biglari Holdings Inc. Class B Common Stock,NYSE,331.24,372.88,-41.64,-11.1671,2026-11-06T08:30:00.380838+00:00,Yes
+LITE,Lumentum Holdings Inc. - Common Stock,NASDAQ,509.7,626.75,-117.05,-18.6757,2026-11-06T09:00:00.904919+00:00,Yes
+APP,Applovin Corporation - Class A Common Stock,NASDAQ,356.1,271.75,84.35,31.0396,2026-11-06T09:00:00.904919+00:00,Yes
+GEV,GE Vernova Inc. Common Stock,NYSE,770.51,832.83,-62.32,-7.48292,2026-11-06T09:00:00.904919+00:00,Yes
+GS,"Goldman Sachs Group, Inc. (The) Common Stock",NYSE,868.95,928.0,-59.05,-6.36315,2026-11-06T09:00:00.904919+00:00,Yes
+LLY,Eli Lilly and Company Common Stock,NYSE,1364.73,1417.99,-53.26,-3.75602,2026-11-06T09:00:00.904919+00:00,Yes
+AMAT,"Applied Materials, Inc. - Common Stock",NASDAQ,319.25,369.4,-50.15,-13.5761,2026-11-06T09:00:00.904919+00:00,Yes
+FN,Fabrinet Ordinary Shares,NYSE,292.97,341.64,-48.67,-14.246,2026-11-06T09:00:00.904919+00:00,Yes
+SITM,SiTime Corporation - Common Stock,NASDAQ,355.0,403.27,-48.27,-11.9696,2026-11-06T09:00:00.904919+00:00,Yes
+ADI,"Analog Devices, Inc. - Common Stock",NASDAQ,361.01,406.24,-45.23,-11.1338,2026-11-06T09:00:00.904919+00:00,Yes
+EXPE,"Expedia Group, Inc. - Common Stock",NASDAQ,272.48,315.88,-43.4,-13.7394,2026-11-06T09:00:00.904919+00:00,Yes
+BH,Biglari Holdings Inc. Class B Common Stock,NYSE,331.24,372.88,-41.64,-11.1671,2026-11-06T09:00:00.904919+00:00,Yes
+AXON,"Axon Enterprise, Inc. - Common Stock",NASDAQ,382.56,424.18,-41.62,-9.81187,2026-11-06T09:00:00.904919+00:00,Yes
+CIEN,Ciena Corporation Common Stock,NYSE,230.81,272.24,-41.43,-15.2182,2026-11-06T09:00:00.904919+00:00,Yes
+STRL,"Sterling Infrastructure, Inc. - Common Stock",NASDAQ,244.34,283.66,-39.32,-13.8617,2026-11-06T09:00:00.904919+00:00,Yes
+LFUS,"Littelfuse, Inc. - Common Stock",NASDAQ,348.39,386.47,-38.08,-9.85328,2026-11-06T09:00:00.904919+00:00,Yes
+SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,844.4971,806.43,38.067078,4.720444,2026-11-06T09:00:00.904919+00:00,Yes
+MU,"Micron Technology, Inc. - Common Stock",NASDAQ,694.43,656.39,38.039978,5.7953315,2026-11-06T09:00:00.904919+00:00,Yes
+CAT,"Caterpillar, Inc. Common Stock",NYSE,553.64,591.3,-37.66,-6.36901,2026-11-06T09:00:00.904919+00:00,Yes
+PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,314.67,348.04,-33.37,-9.58798,2026-11-06T09:00:00.904919+00:00,Yes
+TXN,Texas Instruments Incorporated - Common Stock,NASDAQ,278.15,311.49,-33.34,-10.7034,2026-11-06T09:00:00.904919+00:00,Yes
