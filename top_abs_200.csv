@@ -1,4 +1,4 @@
-generated_at,2026-11-07T00:30:11.811594+02:00,vol_5h_date,2026-11-06,vol_status,STALE
+generated_at,2026-11-07T08:45:56.222921+02:00,vol_5h_date,2026-11-06,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 SPOT,Spotify Technology S.A. Ordinary Shares,NYSE,597.2,603.01,-5.8099976,-0.96349937,2026-11-06T22:30:00.951016+00:00,Yes
 WCC,"WESCO International, Inc. Common Stock",NYSE,286.99,292.68,-5.6900024,-1.9441036,2026-11-06T22:30:00.951016+00:00,Yes
