@@ -1,22 +1,22 @@
-generated_at,2026-11-10T10:30:09.722952+02:00,vol_5h_date,2026-11-09,vol_status,STALE
+generated_at,2026-11-10T11:00:10.357470+02:00,vol_5h_date,2026-11-09,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-OMH,Ohmyhome Limited - Class A Ordinary Shares,NASDAQ,25.84,7.36,18.48,251.087,2026-11-10T08:30:00.743007+00:00,No
-CKX,"CKX Lands, Inc. Common Stock",NYSE American,16.4,10.37,6.03,58.1485,2026-11-10T08:30:00.743007+00:00,No
-FTH,"Faeth Therapeutics, Inc.  - Common Stock",NASDAQ,12.68,22.05,-9.37,-42.4943,2026-11-10T08:30:00.743007+00:00,No
-FRVO,Fervo Energy Company - Class A common stock,NASDAQ,11.38,9.025,2.355,26.0942,2026-11-10T08:30:00.743007+00:00,Yes
-AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ,29.17,23.61,5.56,23.5493,2026-11-10T08:30:00.743007+00:00,Yes
-IONS,"Ionis Pharmaceuticals, Inc. - Common Stock",NASDAQ,31.0,39.42,-8.42,-21.3597,2026-11-10T08:30:00.743007+00:00,Yes
-BDSX,"Biodesix, Inc. - Common Stock",NASDAQ,10.34,8.53,1.81,21.2192,2026-11-10T08:30:00.743007+00:00,No
-QXO,"QXO, Inc. Common Stock",NYSE,13.78,11.56,2.22,19.2041,2026-11-10T08:30:00.743007+00:00,Yes
-CECO,CECO Environmental Corp. - Common Stock,NASDAQ,52.0,43.71,8.29,18.9659,2026-11-10T08:30:00.743007+00:00,Yes
-QMCO,Quantum Corporation - Common Stock,NASDAQ,16.99,14.47,2.52,17.4153,2026-11-10T08:30:00.743007+00:00,Yes
-FLY,Firefly Aerospace Inc. - Common Stock,NASDAQ,24.31,20.76,3.55,17.1002,2026-11-10T08:30:00.743007+00:00,Yes
-COHR,Coherent Corp. Common Stock,NYSE,225.19,192.81,32.38,16.7937,2026-11-10T08:30:00.743007+00:00,Yes
-MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1388.05,1190.44,197.61,16.5998,2026-11-10T08:30:00.743007+00:00,Yes
-VOYG,"Voyager Technologies, Inc. Class A Common Stock",NYSE,27.9,23.98,3.92,16.347,2026-11-10T08:30:00.743007+00:00,Yes
-VSAT,"ViaSat, Inc. - Common Stock",NASDAQ,74.37,63.95,10.42,16.294,2026-11-10T08:30:00.743007+00:00,Yes
-FPS,"Forgent Power Solutions, Inc. Class A Common Stock",NYSE,22.6,19.48,3.12,16.0164,2026-11-10T08:30:00.743007+00:00,Yes
-BH,Biglari Holdings Inc. Class B Common Stock,NYSE,373.55,322.43,51.12,15.8546,2026-11-10T08:30:00.743007+00:00,Yes
-DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ,15.7,13.58,2.12,15.6112,2026-11-10T08:30:00.743007+00:00,Yes
-TTD,"The Trade Desk, Inc. - Class A Common Stock",NASDAQ,14.93,12.93,2.0,15.4679,2026-11-10T08:30:00.743007+00:00,Yes
-ARWR,"Arrowhead Pharmaceuticals, Inc. - Common Stock",NASDAQ,49.24,58.16,-8.92,-15.337,2026-11-10T08:30:00.743007+00:00,Yes
+FTH,"Faeth Therapeutics, Inc.  - Common Stock",NASDAQ,12.68,22.05,-9.37,-42.4943,2026-11-10T09:00:01.300182+00:00,No
+FRVO,Fervo Energy Company - Class A common stock,NASDAQ,11.38,9.025,2.355,26.0942,2026-11-10T09:00:01.300182+00:00,Yes
+AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ,29.17,23.61,5.56,23.5493,2026-11-10T09:00:01.300182+00:00,Yes
+IONS,"Ionis Pharmaceuticals, Inc. - Common Stock",NASDAQ,31.0,39.42,-8.42,-21.3597,2026-11-10T09:00:01.300182+00:00,Yes
+BDSX,"Biodesix, Inc. - Common Stock",NASDAQ,10.34,8.53,1.81,21.2192,2026-11-10T09:00:01.300182+00:00,No
+QXO,"QXO, Inc. Common Stock",NYSE,13.78,11.56,2.22,19.2041,2026-11-10T09:00:01.300182+00:00,Yes
+CECO,CECO Environmental Corp. - Common Stock,NASDAQ,52.0,43.71,8.29,18.9659,2026-11-10T09:00:01.300182+00:00,Yes
+OMH,Ohmyhome Limited - Class A Ordinary Shares,NASDAQ,30.41,25.84,4.5699997,17.685757,2026-11-10T09:00:01.300182+00:00,No
+CKX,"CKX Lands, Inc. Common Stock",NYSE American,19.82,16.4,2.9650002,17.591219,2026-11-10T09:00:01.300182+00:00,No
+QMCO,Quantum Corporation - Common Stock,NASDAQ,16.99,14.47,2.52,17.4153,2026-11-10T09:00:01.300182+00:00,Yes
+FLY,Firefly Aerospace Inc. - Common Stock,NASDAQ,24.31,20.76,3.55,17.1002,2026-11-10T09:00:01.300182+00:00,Yes
+COHR,Coherent Corp. Common Stock,NYSE,225.19,192.81,32.38,16.7937,2026-11-10T09:00:01.300182+00:00,Yes
+MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1388.05,1190.44,197.61,16.5998,2026-11-10T09:00:01.300182+00:00,Yes
+VOYG,"Voyager Technologies, Inc. Class A Common Stock",NYSE,27.9,23.98,3.92,16.347,2026-11-10T09:00:01.300182+00:00,Yes
+VSAT,"ViaSat, Inc. - Common Stock",NASDAQ,74.37,63.95,10.42,16.294,2026-11-10T09:00:01.300182+00:00,Yes
+FPS,"Forgent Power Solutions, Inc. Class A Common Stock",NYSE,22.6,19.48,3.12,16.0164,2026-11-10T09:00:01.300182+00:00,Yes
+BH,Biglari Holdings Inc. Class B Common Stock,NYSE,373.55,322.43,51.12,15.8546,2026-11-10T09:00:01.300182+00:00,Yes
+DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ,15.7,13.58,2.12,15.6112,2026-11-10T09:00:01.300182+00:00,Yes
+ARWR,"Arrowhead Pharmaceuticals, Inc. - Common Stock",NASDAQ,49.24,58.16,-8.92,-15.337,2026-11-10T09:00:01.300182+00:00,Yes
+IMVT,"Immunovant, Inc.  - Common Stock",NASDAQ,35.15,30.53,4.62,15.1327,2026-11-10T09:00:01.300182+00:00,Yes
