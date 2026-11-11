@@ -1,4 +1,4 @@
-generated_at,2026-11-11T23:00:14.037679+02:00,vol_5h_date,2026-11-10,vol_status,STALE
+generated_at,2026-11-11T23:38:20.851623+02:00,vol_5h_date,2026-11-10,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1478.83,1357.6,121.22998,8.928675,2026-11-11T21:00:01.022853+00:00,Yes
 SNDK,Sandisk Corporation - Common Stock When-Issued,NASDAQ,977.45,859.99,117.46002,13.6583,2026-11-11T21:00:01.022853+00:00,Yes
