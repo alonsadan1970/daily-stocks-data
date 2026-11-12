@@ -1,4 +1,4 @@
-generated_at,2026-11-12T23:31:48.456069+02:00,vol_5h_date,2026-11-12,vol_status,OK
+generated_at,2026-11-13T00:40:48.325287+02:00,vol_5h_date,2026-11-12,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 CBRS,Cerebras Systems Inc. - Class A Common Stock,NASDAQ,113.4318,97.75,15.681801,16.042763,2026-11-12T21:31:39.006914+00:00,Yes
 SITM,SiTime Corporation - Common Stock,NASDAQ,461.19,470.55,-9.359985,-1.9891585,2026-11-12T21:31:39.006914+00:00,Yes
