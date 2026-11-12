@@ -1,22 +1,22 @@
-generated_at,2026-11-12T12:00:10.718654+02:00,vol_5h_date,2026-11-10,vol_status,STALE
+generated_at,2026-11-12T12:01:47.170163+02:00,vol_5h_date,2026-11-10,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-TANH,Tantech Holdings Ltd. - Class A Common Shares,NASDAQ,40.0,30.56,9.440001,30.890053,2026-11-12T10:00:01.187653+00:00,No
-BETR,Better Home & Finance Holding Company - Class A Common Stock,NASDAQ,15.395,18.51,-3.115,-16.8287,2026-11-12T10:00:01.187653+00:00,No
-AVEX,AEVEX Corp. Class A Common Stock,NYSE,13.89,12.13,1.7611008,14.519873,2026-11-12T10:00:01.187653+00:00,Yes
-STAA,STAAR Surgical Company - Common Stock,NASDAQ,26.69,23.87,2.82,11.814,2026-11-12T10:00:01.187653+00:00,Yes
-MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,249.86,226.48,23.38,10.3232,2026-11-12T10:00:01.187653+00:00,Yes
-CEVA,"CEVA, Inc. - Common Stock",NASDAQ,26.94,24.45,2.49,10.184,2026-11-12T10:00:01.187653+00:00,Yes
-OR,OR Royalties Inc. Common Shares,NYSE,39.08,35.6,3.4800034,9.7752905,2026-11-12T10:00:01.187653+00:00,Yes
-SMX,SMX (Security Matters) Public Limited Company - Ordinary Shares,NASDAQ,10.1095,11.19,-1.0804996,-9.65594,2026-11-12T10:00:01.187653+00:00,No
-EAF,GrafTech International Ltd. Common Stock,NYSE,11.25,10.29,0.96,9.32945,2026-11-12T10:00:01.187653+00:00,Yes
-AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ,30.86,28.28,2.58,9.12305,2026-11-12T10:00:01.187653+00:00,Yes
-ELMT,The Elmet Group Co. - Common Stock,NASDAQ,21.005,19.38,1.625,8.38493,2026-11-12T10:00:01.187653+00:00,No
-QURE,uniQure N.V. - Ordinary Shares,NASDAQ,24.585,22.71,1.875,8.25628,2026-11-12T10:00:01.187653+00:00,Yes
-PRAA,"PRA Group, Inc. - Common Stock",NASDAQ,12.88,11.96,0.92,7.69231,2026-11-12T10:00:01.187653+00:00,Yes
-CTVA,"Corteva, Inc. Common Stock",NYSE,11.2007,12.14,-0.90929985,-7.5086694,2026-11-12T10:00:01.187653+00:00,Yes
-LQDA,Liquidia Corporation - Common Stock,NASDAQ,55.21,51.4,3.81,7.41245,2026-11-12T10:00:01.187653+00:00,Yes
-FRNM,"Freenome, Inc. - Common stock",NASDAQ,11.56,10.77,0.79,7.33519,2026-11-12T10:00:01.187653+00:00,Yes
-BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",NYSE,10.28,9.59,0.69,7.19499,2026-11-12T10:00:01.187653+00:00,Yes
-AMSC,American Superconductor Corporation - Common Stock,NASDAQ,24.0559,25.77,-1.7140999,-6.651532,2026-11-12T10:00:01.187653+00:00,Yes
-ETOR,eToro Group Ltd. - Class A Common Shares,NASDAQ,22.99,21.56,1.43,6.63265,2026-11-12T10:00:01.187653+00:00,Yes
-GO,Grocery Outlet Holding Corp. - Common Stock,NASDAQ,13.12,14.02,-0.900001,-6.4194,2026-11-12T10:00:01.187653+00:00,Yes
+TANH,Tantech Holdings Ltd. - Class A Common Shares,NASDAQ,40.0,30.56,9.440001,30.890053,2026-11-12T10:01:38.629994+00:00,No
+OMH,Ohmyhome Limited - Class A Ordinary Shares,NASDAQ,10.1,8.0,2.1000004,26.250004,2026-11-12T10:01:38.629994+00:00,No
+BETR,Better Home & Finance Holding Company - Class A Common Stock,NASDAQ,15.395,18.51,-3.115,-16.8287,2026-11-12T10:01:38.629994+00:00,No
+AVEX,AEVEX Corp. Class A Common Stock,NYSE,13.89,12.13,1.7611008,14.519873,2026-11-12T10:01:38.629994+00:00,Yes
+STAA,STAAR Surgical Company - Common Stock,NASDAQ,26.69,23.87,2.82,11.814,2026-11-12T10:01:38.629994+00:00,Yes
+MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ,249.86,226.48,23.38,10.3232,2026-11-12T10:01:38.629994+00:00,Yes
+CEVA,"CEVA, Inc. - Common Stock",NASDAQ,26.94,24.45,2.49,10.184,2026-11-12T10:01:38.629994+00:00,Yes
+OR,OR Royalties Inc. Common Shares,NYSE,39.08,35.6,3.4800034,9.7752905,2026-11-12T10:01:38.629994+00:00,Yes
+SMX,SMX (Security Matters) Public Limited Company - Ordinary Shares,NASDAQ,10.12,11.19,-1.0699997,-9.562107,2026-11-12T10:01:38.629994+00:00,No
+EAF,GrafTech International Ltd. Common Stock,NYSE,11.25,10.29,0.96,9.32945,2026-11-12T10:01:38.629994+00:00,Yes
+AOSL,Alpha and Omega Semiconductor Limited - Common Shares,NASDAQ,30.86,28.28,2.58,9.12305,2026-11-12T10:01:38.629994+00:00,Yes
+ELMT,The Elmet Group Co. - Common Stock,NASDAQ,21.005,19.38,1.625,8.38493,2026-11-12T10:01:38.629994+00:00,No
+QURE,uniQure N.V. - Ordinary Shares,NASDAQ,24.585,22.71,1.875,8.25628,2026-11-12T10:01:38.629994+00:00,Yes
+PRAA,"PRA Group, Inc. - Common Stock",NASDAQ,12.88,11.96,0.92,7.69231,2026-11-12T10:01:38.629994+00:00,Yes
+CTVA,"Corteva, Inc. Common Stock",NYSE,11.2007,12.14,-0.90929985,-7.5086694,2026-11-12T10:01:38.629994+00:00,Yes
+LQDA,Liquidia Corporation - Common Stock,NASDAQ,55.21,51.4,3.81,7.41245,2026-11-12T10:01:38.629994+00:00,Yes
+FRNM,"Freenome, Inc. - Common stock",NASDAQ,11.56,10.77,0.79,7.33519,2026-11-12T10:01:38.629994+00:00,Yes
+BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",NYSE,10.28,9.59,0.69,7.19499,2026-11-12T10:01:38.629994+00:00,Yes
+AMSC,American Superconductor Corporation - Common Stock,NASDAQ,24.0559,25.77,-1.7140999,-6.651532,2026-11-12T10:01:38.629994+00:00,Yes
+ETOR,eToro Group Ltd. - Class A Common Shares,NASDAQ,22.99,21.56,1.43,6.63265,2026-11-12T10:01:38.629994+00:00,Yes
