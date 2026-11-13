@@ -1,22 +1,22 @@
-generated_at,2026-11-13T14:18:17.029982+02:00,vol_5h_date,2026-11-12,vol_status,STALE
+generated_at,2026-11-13T14:31:48.419997+02:00,vol_5h_date,2026-11-12,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-LFTO,"Liftoff Mobile, Inc. - Common Stock",NASDAQ,22.77,18.71,4.0600014,21.699633,2026-11-13T12:18:08.733066+00:00,No
-TISI,"Team, Inc. Common Stock",NYSE,23.34,19.92,3.42,17.1687,2026-11-13T12:18:08.733066+00:00,Yes
-CBRS,Cerebras Systems Inc. - Class A Common Stock,NASDAQ,112.5077,97.75,14.757698,15.097389,2026-11-13T12:18:08.733066+00:00,Yes
-AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ,11.5,10.07,1.4300003,14.2006,2026-11-13T12:18:08.733066+00:00,No
-MANE,"Veradermics, Incorporated Common Stock",NYSE,135.29,156.56,-21.27,-13.5858,2026-11-13T12:18:08.733066+00:00,Yes
-DGII,Digi International Inc. - Common Stock,NASDAQ,58.44,66.96,-8.52,-12.724,2026-11-13T12:18:08.733066+00:00,Yes
-TIGO,Millicom International Cellular S.A. - Common Stock,NASDAQ,80.83,89.43,-8.6,-9.61646,2026-11-13T12:18:08.733066+00:00,Yes
-DPC,DPC Holdings PLC Ordinary Shares,NYSE,34.33,31.68,2.65,8.3649,2026-11-13T12:18:08.733066+00:00,Yes
-SRRK,Scholar Rock Holding Corporation - Common Stock,NASDAQ,43.16,46.6,-3.44,-7.38197,2026-11-13T12:18:08.733066+00:00,Yes
-BBNX,"Beta Bionics, Inc. - Common Stock",NASDAQ,16.51,17.81,-1.3,-7.29927,2026-11-13T12:18:08.733066+00:00,Yes
-WSE,Wise Group plc - Class A Ordinary Shares,NASDAQ,11.71,10.93,0.77999973,7.136319,2026-11-13T12:18:08.733066+00:00,Yes
-KEP,Korea Electric Power Corporation Common Stock,NYSE,10.34,11.13,-0.78499985,-7.0561786,2026-11-13T12:18:08.733066+00:00,Yes
-TNDM,"Tandem Diabetes Care, Inc. - Common Stock",NASDAQ,17.51,18.77,-1.26,-6.71284,2026-11-13T12:18:08.733066+00:00,Yes
-SVRN,"SVRN, Inc. - Common Stock",NASDAQ,15.23,16.31,-1.0799999,-6.621704,2026-11-13T12:18:08.733066+00:00,No
-LMRI,"Lumexa Imaging Holdings, Inc. - Common Stock",NASDAQ,14.94,15.95,-1.01,-6.33229,2026-11-13T12:18:08.733066+00:00,Yes
-FENC,Fennec Pharmaceuticals Inc. - Common Stock,NASDAQ,11.585,10.9,0.6850004,6.284408,2026-11-13T12:18:08.733066+00:00,Yes
-IDR,"Idaho Strategic Resources, Inc. Common Stock",NYSE American,18.94,20.21,-1.27,-6.28401,2026-11-13T12:18:08.733066+00:00,Yes
-MDWD,MediWound Ltd. - Ordinary Shares,NASDAQ,12.97,13.82,-0.849999,-6.1505,2026-11-13T12:18:08.733066+00:00,No
-GDYN,"Grid Dynamics Holdings, Inc. - Class A Common Stock",NASDAQ,14.2,13.38,0.8199997,6.1285477,2026-11-13T12:18:08.733066+00:00,Yes
-PPTA,Perpetua Resources Corp. - Common Shares,NASDAQ,17.82,18.94,-1.12,-5.91341,2026-11-13T12:18:08.733066+00:00,Yes
+LFTO,"Liftoff Mobile, Inc. - Common Stock",NASDAQ,22.8846,18.71,4.1746006,22.312136,2026-11-13T12:31:39.510725+00:00,No
+TISI,"Team, Inc. Common Stock",NYSE,23.34,19.92,3.42,17.1687,2026-11-13T12:31:39.510725+00:00,Yes
+CBRS,Cerebras Systems Inc. - Class A Common Stock,NASDAQ,113.28,97.75,15.529999,15.887466,2026-11-13T12:31:39.510725+00:00,Yes
+AEHL,Antelope Enterprise Holdings Limited - Class A Ordinary Shares,NASDAQ,11.5,10.07,1.4300003,14.2006,2026-11-13T12:31:39.510725+00:00,No
+MANE,"Veradermics, Incorporated Common Stock",NYSE,135.29,156.56,-21.27,-13.5858,2026-11-13T12:31:39.510725+00:00,Yes
+DGII,Digi International Inc. - Common Stock,NASDAQ,58.44,66.96,-8.52,-12.724,2026-11-13T12:31:39.510725+00:00,Yes
+DPC,DPC Holdings PLC Ordinary Shares,NYSE,34.33,31.68,2.65,8.3649,2026-11-13T12:31:39.510725+00:00,Yes
+KEP,Korea Electric Power Corporation Common Stock,NYSE,10.25,11.13,-0.875,-7.8651686,2026-11-13T12:31:39.510725+00:00,Yes
+SRRK,Scholar Rock Holding Corporation - Common Stock,NASDAQ,43.16,46.6,-3.44,-7.38197,2026-11-13T12:31:39.510725+00:00,Yes
+BBNX,"Beta Bionics, Inc. - Common Stock",NASDAQ,16.51,17.81,-1.3,-7.29927,2026-11-13T12:31:39.510725+00:00,Yes
+TNDM,"Tandem Diabetes Care, Inc. - Common Stock",NASDAQ,17.51,18.77,-1.26,-6.71284,2026-11-13T12:31:39.510725+00:00,Yes
+SVRN,"SVRN, Inc. - Common Stock",NASDAQ,15.23,16.31,-1.0799999,-6.621704,2026-11-13T12:31:39.510725+00:00,No
+WSE,Wise Group plc - Class A Ordinary Shares,NASDAQ,11.65,10.93,0.7199993,6.5873675,2026-11-13T12:31:39.510725+00:00,Yes
+LMRI,"Lumexa Imaging Holdings, Inc. - Common Stock",NASDAQ,14.94,15.95,-1.01,-6.33229,2026-11-13T12:31:39.510725+00:00,Yes
+IDR,"Idaho Strategic Resources, Inc. Common Stock",NYSE American,18.94,20.21,-1.27,-6.28401,2026-11-13T12:31:39.510725+00:00,Yes
+MDWD,MediWound Ltd. - Ordinary Shares,NASDAQ,12.97,13.82,-0.849999,-6.1505,2026-11-13T12:31:39.510725+00:00,No
+GDYN,"Grid Dynamics Holdings, Inc. - Class A Common Stock",NASDAQ,14.2,13.38,0.8199997,6.1285477,2026-11-13T12:31:39.510725+00:00,Yes
+PPTA,Perpetua Resources Corp. - Common Shares,NASDAQ,17.82,18.94,-1.12,-5.91341,2026-11-13T12:31:39.510725+00:00,Yes
+AXGN,"Axogen, Inc. - Common Stock",NASDAQ,55.4,58.63,-3.23,-5.50912,2026-11-13T12:31:39.510725+00:00,Yes
+SONO,"Sonos, Inc. - Common Stock",NASDAQ,18.11,19.06,-0.949999,-4.98425,2026-11-13T12:31:39.510725+00:00,Yes
