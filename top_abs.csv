@@ -1,4 +1,4 @@
-generated_at,2026-11-18T01:30:11.039710+02:00,vol_5h_date,2026-11-17,vol_status,STALE
+generated_at,2026-11-18T02:54:52.928764+02:00,vol_5h_date,2026-11-17,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1380.0,1317.37,62.630005,4.7541695,2026-11-17T23:30:01.645856+00:00,Yes
 ASML,ASML Holding N.V. - New York Registry Shares,NASDAQ,1432.0002,1383.11,48.89026,3.5348063,2026-11-17T23:30:01.645856+00:00,Yes
