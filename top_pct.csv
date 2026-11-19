@@ -1,22 +1,22 @@
-generated_at,2026-11-19T10:30:34.377815+02:00,vol_5h_date,2026-11-18,vol_status,STALE
+generated_at,2026-11-19T11:00:15.434436+02:00,vol_5h_date,2026-11-18,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-HY,"Hyster-Yale, Inc. Class A common stock",NYSE,15.44,26.2,-10.76,-41.0687,2026-11-19T08:30:01.854248+00:00,Yes
-BRBR,"BellRing Brands, Inc. Common Stock",NYSE,13.66,11.01,2.65,24.069,2026-11-19T08:30:01.854248+00:00,Yes
-ARDT,"Ardent Health, Inc. Common Stock",NYSE,14.4,17.75,-3.35,-18.8732,2026-11-19T08:30:01.854248+00:00,Yes
-TENB,"Tenable Holdings, Inc. - Common Stock",NASDAQ,44.68,38.6,6.08,15.7513,2026-11-19T08:30:01.854248+00:00,Yes
-NTSK,"Netskope, Inc. - Class A Common Stock",NASDAQ,23.505,20.85,2.655,12.7338,2026-11-19T08:30:01.854248+00:00,Yes
-FSLY,"Fastly, Inc. - Class A Common Stock",NASDAQ,17.9,15.9,2.0,12.5786,2026-11-19T08:30:01.854248+00:00,Yes
-IIIV,"i3 Verticals, Inc. - Common Stock",NASDAQ,21.02,18.71,2.31,12.3463,2026-11-19T08:30:01.854248+00:00,Yes
-YSWY,"Yesway, Inc. - Class A Common Stock",NASDAQ,21.29,24.26,-2.97,-12.2424,2026-11-19T08:30:01.854248+00:00,Yes
-OKTA,"Okta, Inc. - Class A Common Stock",NASDAQ,195.61,174.54,21.07,12.0717,2026-11-19T08:30:01.854248+00:00,Yes
-ERO,Ero Copper Corp. Common Shares,NYSE,23.92,27.04,-3.12,-11.5385,2026-11-19T08:30:01.854248+00:00,No
-ATEN,"A10 Networks, Inc. Common Stock",NYSE,32.36,29.28,3.08,10.5191,2026-11-19T08:30:01.854248+00:00,Yes
-S,"SentinelOne, Inc. Class A Common Stock",NYSE,23.34,21.15,2.19,10.3546,2026-11-19T08:30:01.854248+00:00,Yes
-ACIW,"ACI Worldwide, Inc. - Common Stock",NASDAQ,52.89,58.93,-6.04,-10.2494,2026-11-19T08:30:01.854248+00:00,Yes
-UNH,UnitedHealth Group Incorporated Common Stock (DE),NYSE,349.91,389.68,-39.77,-10.2058,2026-11-19T08:30:01.854248+00:00,Yes
-GLSI,"Greenwich LifeSciences, Inc. - Common stock",NASDAQ,20.58,18.7,1.88,10.0535,2026-11-19T08:30:01.854248+00:00,No
-PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,339.92,309.29,30.63,9.90333,2026-11-19T08:30:01.854248+00:00,Yes
-AAOI,"Applied Optoelectronics, Inc. - Common Stock",NASDAQ,40.79,45.22,-4.43,-9.79655,2026-11-19T08:30:01.854248+00:00,Yes
-CBRS,Cerebras Systems Inc. - Class A Common Stock,NASDAQ,94.15,104.18,-10.03,-9.62757,2026-11-19T08:30:01.854248+00:00,Yes
-RBRK,"Rubrik, Inc. Class A Common Stock",NYSE,110.0,100.68,9.32,9.25705,2026-11-19T08:30:01.854248+00:00,Yes
-ANDE,"The Andersons, Inc. - Common Stock",NASDAQ,47.51,52.02,-4.51,-8.66975,2026-11-19T08:30:01.854248+00:00,Yes
+HY,"Hyster-Yale, Inc. Class A common stock",NYSE,15.44,26.2,-10.76,-41.0687,2026-11-19T09:00:01.631124+00:00,Yes
+BRBR,"BellRing Brands, Inc. Common Stock",NYSE,13.66,11.01,2.65,24.069,2026-11-19T09:00:01.631124+00:00,Yes
+ARDT,"Ardent Health, Inc. Common Stock",NYSE,14.4,17.75,-3.35,-18.8732,2026-11-19T09:00:01.631124+00:00,Yes
+SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",NASDAQ,15.3392,17.95,-2.6108007,-14.54485,2026-11-19T09:00:01.631124+00:00,No
+FSLY,"Fastly, Inc. - Class A Common Stock",NASDAQ,17.9,15.9,2.0,12.5786,2026-11-19T09:00:01.631124+00:00,Yes
+IIIV,"i3 Verticals, Inc. - Common Stock",NASDAQ,21.02,18.71,2.31,12.3463,2026-11-19T09:00:01.631124+00:00,Yes
+YSWY,"Yesway, Inc. - Class A Common Stock",NASDAQ,21.29,24.26,-2.97,-12.2424,2026-11-19T09:00:01.631124+00:00,Yes
+OKTA,"Okta, Inc. - Class A Common Stock",NASDAQ,195.61,174.54,21.07,12.0717,2026-11-19T09:00:01.631124+00:00,Yes
+ERO,Ero Copper Corp. Common Shares,NYSE,23.92,27.04,-3.12,-11.5385,2026-11-19T09:00:01.631124+00:00,No
+ATEN,"A10 Networks, Inc. Common Stock",NYSE,32.36,29.28,3.08,10.5191,2026-11-19T09:00:01.631124+00:00,Yes
+ACIW,"ACI Worldwide, Inc. - Common Stock",NASDAQ,52.89,58.93,-6.04,-10.2494,2026-11-19T09:00:01.631124+00:00,Yes
+GLSI,"Greenwich LifeSciences, Inc. - Common stock",NASDAQ,20.58,18.7,1.88,10.0535,2026-11-19T09:00:01.631124+00:00,No
+AAOI,"Applied Optoelectronics, Inc. - Common Stock",NASDAQ,40.79,45.22,-4.43,-9.79655,2026-11-19T09:00:01.631124+00:00,Yes
+CBRS,Cerebras Systems Inc. - Class A Common Stock,NASDAQ,94.15,104.18,-10.03,-9.62757,2026-11-19T09:00:01.631124+00:00,Yes
+RBRK,"Rubrik, Inc. Class A Common Stock",NYSE,110.0,100.68,9.32,9.25705,2026-11-19T09:00:01.631124+00:00,Yes
+ANDE,"The Andersons, Inc. - Common Stock",NASDAQ,47.51,52.02,-4.51,-8.66975,2026-11-19T09:00:01.631124+00:00,Yes
+HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),NYSE,18.05,19.74,-1.69,-8.5613,2026-11-19T09:00:01.631124+00:00,Yes
+PANW,"Palo Alto Networks, Inc. - Common Stock",NASDAQ,368.5188,339.92,28.598785,8.413386,2026-11-19T09:00:01.631124+00:00,Yes
+TJX,"TJX Companies, Inc. (The) Common Stock",NYSE,140.3,129.85,10.45,8.04774,2026-11-19T09:00:01.631124+00:00,Yes
+CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",NASDAQ,237.03,219.58,17.45,7.94699,2026-11-19T09:00:01.631124+00:00,Yes
