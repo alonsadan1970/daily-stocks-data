@@ -1,4 +1,4 @@
-generated_at,2026-11-23T16:00:15.875953+02:00,vol_5h_date,2026-11-23,vol_status,OK
+generated_at,2026-11-23T16:32:28.407557+02:00,vol_5h_date,2026-11-23,vol_status,OK
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 NVDA,NVIDIA Corporation - Common Stock,NASDAQ,159.3719,125.53,33.841904,26.959217,2026-11-23T14:00:01.956717+00:00,Yes
 CRWV,"CoreWeave, Inc. - Class A Common Stock",NASDAQ,49.14,39.51,9.630001,24.37358,2026-11-23T14:00:01.956717+00:00,Yes
