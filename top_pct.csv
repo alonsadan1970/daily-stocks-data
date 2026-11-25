@@ -1,22 +1,22 @@
-generated_at,2026-11-25T11:00:11.790590+02:00,vol_5h_date,2026-11-24,vol_status,STALE
+generated_at,2026-11-25T11:30:11.035556+02:00,vol_5h_date,2026-11-24,vol_status,STALE
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
-AMTM,"Amentum Holdings, Inc. Common Stock",NYSE,24.8,20.65,4.15,20.0969,2026-11-25T09:00:01.536459+00:00,Yes
-AMBA,"Ambarella, Inc. - Ordinary Shares",NASDAQ,44.47,55.56,-11.09,-19.9604,2026-11-25T09:00:01.536459+00:00,Yes
-ANF,Abercrombie & Fitch Company Common Stock,NYSE,168.1,140.45,27.65,19.6867,2026-11-25T09:00:01.536459+00:00,Yes
-KSS,Kohl's Corporation Common Stock,NYSE,25.33,21.2,4.13,19.4811,2026-11-25T09:00:01.536459+00:00,Yes
-SHOE,"Shoe Station Group, Inc. - Common Stock",NASDAQ,11.58,14.19,-2.61,-18.3932,2026-11-25T09:00:01.536459+00:00,Yes
-DY,"Dycom Industries, Inc. Common Stock",NYSE,179.01,218.37,-39.36,-18.0245,2026-11-25T09:00:01.536459+00:00,Yes
-VCX,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",NYSE,16.5,13.99,2.51,17.9414,2026-11-25T09:00:01.536459+00:00,No
-COGT,"Cogent Biosciences, Inc. - Common Stock",NASDAQ,33.01,28.11,4.9,17.4315,2026-11-25T09:00:01.536459+00:00,Yes
-ADI,"Analog Devices, Inc. - Common Stock",NASDAQ,312.95,378.75,-65.8,-17.3729,2026-11-25T09:00:01.536459+00:00,Yes
-SMTC,Semtech Corporation - Common Stock,NASDAQ,86.46,104.13,-17.67,-16.9692,2026-11-25T09:00:01.536459+00:00,Yes
-AXTI,AXT Inc - Common Stock,NASDAQ,31.58,38.02,-6.44,-16.9385,2026-11-25T09:00:01.536459+00:00,Yes
-NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ,24.45,20.91,3.54,16.9297,2026-11-25T09:00:01.536459+00:00,Yes
-MXL,"MaxLinear, Inc - Common Stock",NASDAQ,41.89,50.31,-8.42,-16.7362,2026-11-25T09:00:01.536459+00:00,Yes
-ICHR,Ichor Holdings - Ordinary Shares,NASDAQ,26.39,31.6,-5.21,-16.4873,2026-11-25T09:00:01.536459+00:00,Yes
-HPE,Hewlett Packard Enterprise Company Common Stock,NYSE,40.19,48.02,-7.83,-16.3057,2026-11-25T09:00:01.536459+00:00,Yes
-KYMR,"Kymera Therapeutics, Inc. - Common Stock",NASDAQ,173.92,150.37,23.55,15.6614,2026-11-25T09:00:01.536459+00:00,Yes
-IRON,"Disc Medicine, Inc. - Common Stock",NASDAQ,88.34,76.62,11.72,15.2963,2026-11-25T09:00:01.536459+00:00,Yes
-DKS,Dick's Sporting Goods Inc Common Stock,NYSE,153.17,133.67,19.5,14.5882,2026-11-25T09:00:01.536459+00:00,Yes
-INSM,Insmed Incorporated - Common Stock,NASDAQ,170.15,149.09,21.06,14.1257,2026-11-25T09:00:01.536459+00:00,Yes
-MMED,"MiniMed Group, Inc. - Common Stock",NASDAQ,19.07,16.715,2.355,14.0891,2026-11-25T09:00:01.536459+00:00,Yes
+AMBA,"Ambarella, Inc. - Ordinary Shares",NASDAQ,28.5101,44.47,-15.959902,-35.889145,2026-11-25T09:30:01.568904+00:00,Yes
+SHOE,"Shoe Station Group, Inc. - Common Stock",NASDAQ,11.58,14.19,-2.61,-18.3932,2026-11-25T09:30:01.568904+00:00,Yes
+VCX,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",NYSE,16.5,13.99,2.51,17.9414,2026-11-25T09:30:01.568904+00:00,No
+NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ,24.45,20.91,3.54,16.9297,2026-11-25T09:30:01.568904+00:00,Yes
+IRON,"Disc Medicine, Inc. - Common Stock",NASDAQ,88.34,76.62,11.72,15.2963,2026-11-25T09:30:01.568904+00:00,Yes
+DKS,Dick's Sporting Goods Inc Common Stock,NYSE,153.17,133.67,19.5,14.5882,2026-11-25T09:30:01.568904+00:00,Yes
+MMED,"MiniMed Group, Inc. - Common Stock",NASDAQ,19.07,16.715,2.355,14.0891,2026-11-25T09:30:01.568904+00:00,Yes
+PRAX,"Praxis Precision Medicines, Inc. - Common Stock",NASDAQ,344.49,307.0,37.49,12.2117,2026-11-25T09:30:01.568904+00:00,Yes
+DLTR,"Dollar Tree, Inc. - Common Stock",NASDAQ,154.65,139.1,15.55,11.179,2026-11-25T09:30:01.568904+00:00,Yes
+ENTG,"Entegris, Inc. - Common Stock",NASDAQ,127.82,142.06,-14.24,-10.0239,2026-11-25T09:30:01.568904+00:00,Yes
+BOT,"RoboStrategy, Inc. - Common Stock",NASDAQ,18.9,20.75,-1.85,-8.91566,2026-11-25T09:30:01.568904+00:00,No
+KN,Knowles Corporation Common Stock,NYSE,30.71,33.64,-2.93,-8.70987,2026-11-25T09:30:01.568904+00:00,Yes
+BBIO,"BridgeBio Pharma, Inc. - Common Stock",NASDAQ,85.87,79.125,6.745,8.52449,2026-11-25T09:30:01.568904+00:00,Yes
+DYN,"Dyne Therapeutics, Inc. - Common Stock",NASDAQ,17.75,16.41,1.34,8.16575,2026-11-25T09:30:01.568904+00:00,Yes
+SSMR,Sunshine Silver Mining & Refining Company Common Stock,NYSE,10.53,9.74,0.79,8.11088,2026-11-25T09:30:01.568904+00:00,No
+ALKS,Alkermes plc - Ordinary Shares,NASDAQ,49.92,46.25,3.67,7.93513,2026-11-25T09:30:01.568904+00:00,Yes
+PRIM,Primoris Services Corporation Common Stock,NYSE,55.35,60.12,-4.77,-7.93413,2026-11-25T09:30:01.568904+00:00,Yes
+CENTA,Central Garden & Pet Company - Class A Common Stock Nonvoting,NASDAQ,35.41,38.43,-3.02,-7.85844,2026-11-25T09:30:01.568904+00:00,Yes
+LGN,Legence Corp. - Class A Common stock,NASDAQ,33.62,36.45,-2.83,-7.76407,2026-11-25T09:30:01.568904+00:00,Yes
+BELFB,Bel Fuse Inc. - Class B Common Stock,NASDAQ,202.14,218.48,-16.34,-7.47894,2026-11-25T09:30:01.568904+00:00,Yes
