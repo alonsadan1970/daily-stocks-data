@@ -1,4 +1,4 @@
-generated_at,2026-11-27T18:00:12.857602+02:00,vol_5h_date,2026-11-27,vol_status,OK
+generated_at,2026-11-27T18:30:01.554870+02:00,vol_5h_date,2026-11-27,vol_status,OK
 symbol,name,exchange,last_price,prev_close,change_abs,change_pct,last_updated,etb
 MELI,"MercadoLibre, Inc. - Common Stock",NASDAQ,1532.035,1467.3,64.734985,4.411844,2026-11-27T16:00:01.323789+00:00,Yes
 MPWR,"Monolithic Power Systems, Inc. - Common Stock",NASDAQ,1233.25,1194.63,38.619995,3.2327998,2026-11-27T16:00:01.323789+00:00,Yes
